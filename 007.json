@@ -1,0 +1,4092 @@
+{
+  "href": "https://api.spotify.com/v1/me/tracks?offset=300&limit=50&market=from_token",
+  "items": [
+    {
+      "added_at": "2019-04-12T16:38:09Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+              },
+              "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+              "id": "6DPYiyq5kWVQS4RGwxzPC7",
+              "name": "Dr. Dre",
+              "type": "artist",
+              "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qRYw8PUU2AE7MPTvC9AwF"
+          },
+          "href": "https://api.spotify.com/v1/albums/0qRYw8PUU2AE7MPTvC9AwF",
+          "id": "0qRYw8PUU2AE7MPTvC9AwF",
+          "images": [
+            {
+              "height": 636,
+              "url": "https://i.scdn.co/image/67f1db3b5e4e95808725a5bb39c1e0a15d449b48",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/a4ab885062d46754490d96678501dae5b287e585",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ebe56f4cb253f95d31c6a3f9dc99a6ccd7b9e5d5",
+              "width": 64
+            }
+          ],
+          "name": "2001",
+          "release_date": "1999-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 22,
+          "type": "album",
+          "uri": "spotify:album:0qRYw8PUU2AE7MPTvC9AwF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222333,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USIR19915077"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0D8Npw3PzW1srmITkELL3s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0D8Npw3PzW1srmITkELL3s",
+        "id": "0D8Npw3PzW1srmITkELL3s",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Forgot About Dre",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/552b69a948db611998588c7d60ade7d83eb02fb1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0D8Npw3PzW1srmITkELL3s"
+      }
+    },
+    {
+      "added_at": "2019-04-12T16:37:59Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+              },
+              "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+              "id": "7dGJo4pcD2V6oG8kP0tJRR",
+              "name": "Eminem",
+              "type": "artist",
+              "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+          },
+          "href": "https://api.spotify.com/v1/albums/6t7956yu5zYf5A829XRiHC",
+          "id": "6t7956yu5zYf5A829XRiHC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/135ffbfeb47d564df36fdb4756c070b3ac32cd3b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c18ba0ee65b2f13374485433698129bc11866a41",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/e50b2ed6844f3b5e8736c22ad8b55acc80b997e3",
+              "width": 64
+            }
+          ],
+          "name": "The Marshall Mathers LP",
+          "release_date": "2000-05-23",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:6t7956yu5zYf5A829XRiHC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 300266,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USIR10000587"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7tEoJKbYdIHBfn7tTIyjHW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tEoJKbYdIHBfn7tTIyjHW",
+        "id": "7tEoJKbYdIHBfn7tTIyjHW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Drug Ballad",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/3c3391ddf5796706f48065057844f480deb9c5b0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:7tEoJKbYdIHBfn7tTIyjHW"
+      }
+    },
+    {
+      "added_at": "2019-04-12T16:37:57Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+              },
+              "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+              "id": "74XFHRwlV6OrjEM0A2NCMF",
+              "name": "Paramore",
+              "type": "artist",
+              "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/3UoOO8m0oxxvUHXUKf3qcZ",
+          "id": "3UoOO8m0oxxvUHXUKf3qcZ",
+          "images": [
+            {
+              "height": 562,
+              "url": "https://i.scdn.co/image/a951b3eaf13253c07a4c879e63d538669ed711d9",
+              "width": 640
+            },
+            {
+              "height": 264,
+              "url": "https://i.scdn.co/image/2617bcb76b4fb906d40c9dac456084451d54e3e8",
+              "width": 300
+            },
+            {
+              "height": 56,
+              "url": "https://i.scdn.co/image/4b346d1e34ffa4f76f6fca069d3957cca6656b5e",
+              "width": 64
+            }
+          ],
+          "name": "RIOT!",
+          "release_date": "2007-06-11",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:3UoOO8m0oxxvUHXUKf3qcZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+            },
+            "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+            "id": "74XFHRwlV6OrjEM0A2NCMF",
+            "name": "Paramore",
+            "type": "artist",
+            "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198973,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT20702608"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GLco0U2FinSfaZuAXWsw3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GLco0U2FinSfaZuAXWsw3",
+        "id": "1GLco0U2FinSfaZuAXWsw3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fences",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/cae07685ebb010d0799eaaf41d6d3d98336e46f2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1GLco0U2FinSfaZuAXWsw3"
+      }
+    },
+    {
+      "added_at": "2019-04-12T16:37:56Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+              },
+              "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+              "id": "74XFHRwlV6OrjEM0A2NCMF",
+              "name": "Paramore",
+              "type": "artist",
+              "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+          },
+          "href": "https://api.spotify.com/v1/albums/71rziY9eLo1tA2dBMxrwhc",
+          "id": "71rziY9eLo1tA2dBMxrwhc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b7bf9e682e3dca64d2396bdea7b56005f23448ed",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0e3e4e3665edb0f15d3cb57f9f84e5eb82b7f423",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/19b813b0a3733f3ef3ec69e2ef4bc473dc0d6720",
+              "width": 64
+            }
+          ],
+          "name": "RIOT!",
+          "release_date": "2007-06-11",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:71rziY9eLo1tA2dBMxrwhc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+            },
+            "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+            "id": "74XFHRwlV6OrjEM0A2NCMF",
+            "name": "Paramore",
+            "type": "artist",
+            "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211520,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT20702617"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6SpLc7EXZIPpy0sVko0aoU",
+        "id": "6SpLc7EXZIPpy0sVko0aoU",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Misery Business",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/d4aacf7e02038a401759df9a908756e4f71de0fb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6SpLc7EXZIPpy0sVko0aoU"
+      }
+    },
+    {
+      "added_at": "2019-04-12T16:37:56Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206760,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300151"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5G0hAj0rpho7WCGjNzeiPu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5G0hAj0rpho7WCGjNzeiPu",
+        "id": "5G0hAj0rpho7WCGjNzeiPu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Pandemonium",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/5e79e1d58f7d6a55eeffe813f2ecc3633cb9f463?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5G0hAj0rpho7WCGjNzeiPu"
+      }
+    },
+    {
+      "added_at": "2019-04-09T19:16:10Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+              },
+              "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+              "id": "6kACVPfCOnqzgfEF5ryl0x",
+              "name": "Johnny Cash",
+              "type": "artist",
+              "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2nQNyHqWILAkDe4OhyWonE"
+          },
+          "href": "https://api.spotify.com/v1/albums/2nQNyHqWILAkDe4OhyWonE",
+          "id": "2nQNyHqWILAkDe4OhyWonE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d5417f683c3b72fe47d292b990c54f868a421d81",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7c4e6bf3e3222347065666e6026365ee806ade44",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/e21b292a9947f61b13338809518366cbeb0d1fe6",
+              "width": 64
+            }
+          ],
+          "name": "Sings The Songs That Made Him Famous",
+          "release_date": "1958-11-13",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:2nQNyHqWILAkDe4OhyWonE"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+            "id": "6kACVPfCOnqzgfEF5ryl0x",
+            "name": "Johnny Cash",
+            "type": "artist",
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 163653,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSE60070029"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17a3cv3ra2wKlstmzELkP6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17a3cv3ra2wKlstmzELkP6",
+        "id": "17a3cv3ra2wKlstmzELkP6",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Home Of The Blues",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/0994538de26aad5039a432a787950d524d36d05c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:17a3cv3ra2wKlstmzELkP6"
+      }
+    },
+    {
+      "added_at": "2019-04-05T18:53:53Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+              },
+              "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "type": "artist",
+              "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+          },
+          "href": "https://api.spotify.com/v1/albums/7851Vsjv3apS52sXUik6iF",
+          "id": "7851Vsjv3apS52sXUik6iF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b89bd6dbfa1772b398c2f30c82103475c9aecd0f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bd3fafe7182eec20c452513ef2a4eb76f68d2342",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7e1755e8efc33736328b2a97a1a3ef72c4e14f84",
+              "width": 64
+            }
+          ],
+          "name": "Under My Skin",
+          "release_date": "2004",
+          "release_date_precision": "year",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7851Vsjv3apS52sXUik6iF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+            },
+            "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+            "id": "0p4nmQO2msCgU4IF37Wi3j",
+            "name": "Avril Lavigne",
+            "type": "artist",
+            "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242413,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAR10400486"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6sqNctd7MlJoKDOxPVCAvU",
+        "id": "6sqNctd7MlJoKDOxPVCAvU",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Happy Ending",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/76a3901cdd340ba170ce7dbc9de0ecf8aa868ece?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6sqNctd7MlJoKDOxPVCAvU"
+      }
+    },
+    {
+      "added_at": "2019-04-05T17:27:08Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+              "id": "7hJcb9fa4alzcOq3EaNPoG",
+              "name": "Snoop Dogg",
+              "type": "artist",
+              "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3aGqda1il0pgvK7aD4EEdZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/3aGqda1il0pgvK7aD4EEdZ",
+          "id": "3aGqda1il0pgvK7aD4EEdZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/116c8b660d6c8a5345e797fd90bfee2e5ca54a62",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/52dcc750cd90faee436048ed5f2a76abfb2059e7",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7da63f28721a1f70adddd0163073781c2b22cd5d",
+              "width": 64
+            }
+          ],
+          "name": "Snoop Dogg Hits",
+          "release_date": "2012-05-31",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:3aGqda1il0pgvK7aD4EEdZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251453,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USA561178176"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0P3EQ9RB7Q62ZmiqTOB1jq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0P3EQ9RB7Q62ZmiqTOB1jq",
+        "id": "0P3EQ9RB7Q62ZmiqTOB1jq",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5jjAUXUCyOP6Ra0whgpwf4"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5jjAUXUCyOP6Ra0whgpwf4",
+          "id": "5jjAUXUCyOP6Ra0whgpwf4",
+          "type": "track",
+          "uri": "spotify:track:5jjAUXUCyOP6Ra0whgpwf4"
+        },
+        "name": "Deep Cover",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/abcc76f1f6cf413d423f4383eb53a86b65bf1d33?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0P3EQ9RB7Q62ZmiqTOB1jq"
+      }
+    },
+    {
+      "added_at": "2019-04-04T13:44:29Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+              },
+              "href": "https://api.spotify.com/v1/artists/12d4iIvTOk7JkI6ecvc3ca",
+              "id": "12d4iIvTOk7JkI6ecvc3ca",
+              "name": "The Charlie Daniels Band",
+              "type": "artist",
+              "uri": "spotify:artist:12d4iIvTOk7JkI6ecvc3ca"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
+          },
+          "href": "https://api.spotify.com/v1/albums/3ntl3KgaLDbSnnuai9AusB",
+          "id": "3ntl3KgaLDbSnnuai9AusB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d3cc2e4c2bfa6493cb6f0c712988d9c1b4e7cccd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/faafe1d866c49036de4b6bedb1498415fbc55b20",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ed9a0d59f37abf440b4868f7b98a80846c146da4",
+              "width": 64
+            }
+          ],
+          "name": "Simple Man",
+          "release_date": "1989-10-17",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:3ntl3KgaLDbSnnuai9AusB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+            },
+            "href": "https://api.spotify.com/v1/artists/12d4iIvTOk7JkI6ecvc3ca",
+            "id": "12d4iIvTOk7JkI6ecvc3ca",
+            "name": "The Charlie Daniels Band",
+            "type": "artist",
+            "uri": "spotify:artist:12d4iIvTOk7JkI6ecvc3ca"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202506,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM19920664"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4O7sDupv5V7qEBk96qOZyi",
+        "id": "4O7sDupv5V7qEBk96qOZyi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Simple Man",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/b0edbf7765d9eb83d3baab16c536857be27dffba?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4O7sDupv5V7qEBk96qOZyi"
+      }
+    },
+    {
+      "added_at": "2019-04-02T13:10:49Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+              },
+              "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "type": "artist",
+              "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+          },
+          "href": "https://api.spotify.com/v1/albums/3zXjR3y2dUWklKmmp6lEhy",
+          "id": "3zXjR3y2dUWklKmmp6lEhy",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b46891a270f415127ee9c7b89b5860f91bab9115",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/03a341ce2e327fda814f1587355f689832147221",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/91ea484270ba50b7e1c9e4669e034dd6d6a5f598",
+              "width": 64
+            }
+          ],
+          "name": "Let Go",
+          "release_date": "2002-06-04",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:3zXjR3y2dUWklKmmp6lEhy"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+            },
+            "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+            "id": "0p4nmQO2msCgU4IF37Wi3j",
+            "name": "Avril Lavigne",
+            "type": "artist",
+            "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244506,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAR10200223"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xEM5hIgJ1jjgcEBfpkt2F",
+        "id": "5xEM5hIgJ1jjgcEBfpkt2F",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Complicated",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/497f3eed8dedf972b878e04e4e3f6b18556226c3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F"
+      }
+    },
+    {
+      "added_at": "2019-04-02T12:57:55Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+              },
+              "href": "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+              "id": "13saZpZnCDWOI9D4IJhp1f",
+              "name": "Lily Allen",
+              "type": "artist",
+              "uri": "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+          },
+          "href": "https://api.spotify.com/v1/albums/5ySBiY0v4b03yw98oRDKtS",
+          "id": "5ySBiY0v4b03yw98oRDKtS",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/9a5a80d4c8449991be527839cce935e42f50ca2a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/06d1731e594fcc1adf21e2b225be2eb3ad5675a4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/144d9cdf66d4abdbd8cd703e54afd1ae998bff2c",
+              "width": 64
+            }
+          ],
+          "name": "Alright, Still [Deluxe]",
+          "release_date": "2006-07-14",
+          "release_date_precision": "day",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:5ySBiY0v4b03yw98oRDKtS"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+            },
+            "href": "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+            "id": "13saZpZnCDWOI9D4IJhp1f",
+            "name": "Lily Allen",
+            "type": "artist",
+            "uri": "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196893,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "GBAYE0600634"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79z9QkhHePTFsSeVw9uyj0",
+        "id": "79z9QkhHePTFsSeVw9uyj0",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Smile",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/560ed7b94bcfba452e59ecd99baf26588ab21221?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:79z9QkhHePTFsSeVw9uyj0"
+      }
+    },
+    {
+      "added_at": "2019-04-01T16:29:11Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP",
+              "id": "5sAg1HZePcFfhrs0G8A8OP",
+              "name": "Ray Price",
+              "type": "artist",
+              "uri": "spotify:artist:5sAg1HZePcFfhrs0G8A8OP"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+          },
+          "href": "https://api.spotify.com/v1/albums/6KJrpAaoqXM9FYWJEM76LV",
+          "id": "6KJrpAaoqXM9FYWJEM76LV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/7695b64f6266c65a25a6ed99006f2a0af2314e2f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/5fc735af3c9f4b1e9acca7323916ba87e9f3aacc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/810d927a413edbb831e20c8a98ddd8b7841ee483",
+              "width": 64
+            }
+          ],
+          "name": "Super Hits",
+          "release_date": "1954",
+          "release_date_precision": "year",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:6KJrpAaoqXM9FYWJEM76LV"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+            },
+            "href": "https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP",
+            "id": "5sAg1HZePcFfhrs0G8A8OP",
+            "name": "Ray Price",
+            "type": "artist",
+            "uri": "spotify:artist:5sAg1HZePcFfhrs0G8A8OP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 152106,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM15600138"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1g8SEY3F2iliV1aJgqmQsv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1g8SEY3F2iliV1aJgqmQsv",
+        "id": "1g8SEY3F2iliV1aJgqmQsv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Crazy Arms",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/523696ba3740988d1ecec5df2a012fc984b2ca6d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1g8SEY3F2iliV1aJgqmQsv"
+      }
+    },
+    {
+      "added_at": "2019-04-01T12:25:31Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+              "id": "4mxWe1mtYIYfP040G38yvS",
+              "name": "Alan Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+          },
+          "href": "https://api.spotify.com/v1/albums/26w8J2SKCxa80Bwq6G8ctN",
+          "id": "26w8J2SKCxa80Bwq6G8ctN",
+          "images": [
+            {
+              "height": 635,
+              "url": "https://i.scdn.co/image/11462910376c26e09c656d187d6cd96684d865cf",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/f9ae71287ce3ca59374a7f5e49ac9f51b0fa7d81",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/298827a2bead0edc6cab8f53765924cd5fc7b24d",
+              "width": 64
+            }
+          ],
+          "name": "34 Number Ones",
+          "release_date": "2010-11-19",
+          "release_date_precision": "day",
+          "total_tracks": 37,
+          "type": "album",
+          "uri": "spotify:album:26w8J2SKCxa80Bwq6G8ctN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+            "id": "4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAN29600089"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7b7ch5lDx13Jwm2623CxJS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7b7ch5lDx13Jwm2623CxJS",
+        "id": "7b7ch5lDx13Jwm2623CxJS",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Who's Cheatin' Who",
+        "popularity": 54,
+        "preview_url": "https://p.scdn.co/mp3-preview/f6824bb2fdd3922c2e605dc42ee2fb26bb279ad3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 25,
+        "type": "track",
+        "uri": "spotify:track:7b7ch5lDx13Jwm2623CxJS"
+      }
+    },
+    {
+      "added_at": "2019-04-01T12:17:06Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+              },
+              "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+              "id": "6kACVPfCOnqzgfEF5ryl0x",
+              "name": "Johnny Cash",
+              "type": "artist",
+              "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6TcgY4vHX9wDk4Nr1a3l1z"
+          },
+          "href": "https://api.spotify.com/v1/albums/6TcgY4vHX9wDk4Nr1a3l1z",
+          "id": "6TcgY4vHX9wDk4Nr1a3l1z",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ed12787a4e72519cf2f73109e51cd99aa80f2eea",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/16e58f9899afe766d92e365d4b63dd43a05de058",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/95e729ebeb3e74f9b9130b2ff64f138e4c6d4542",
+              "width": 64
+            }
+          ],
+          "name": "På Österåker (35th Anniversary Edition)",
+          "release_date": "1973-09-01",
+          "release_date_precision": "day",
+          "total_tracks": 24,
+          "type": "album",
+          "uri": "spotify:album:6TcgY4vHX9wDk4Nr1a3l1z"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+            "id": "6kACVPfCOnqzgfEF5ryl0x",
+            "name": "Johnny Cash",
+            "type": "artist",
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201960,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM10704446"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/46CIRVA8iM9gBeDGWJol5B"
+        },
+        "href": "https://api.spotify.com/v1/tracks/46CIRVA8iM9gBeDGWJol5B",
+        "id": "46CIRVA8iM9gBeDGWJol5B",
+        "is_local": false,
+        "is_playable": true,
+        "name": "A Boy Named Sue - Live at Österåker Prison, Sweden - October 1972",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/ec01443e357534bde761f943c1cb7aa7c722b41e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:46CIRVA8iM9gBeDGWJol5B"
+      }
+    },
+    {
+      "added_at": "2019-03-21T19:33:20Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+              },
+              "href": "https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp",
+              "id": "4lxfqrEsLX6N1N4OCSkILp",
+              "name": "Phil Collins",
+              "type": "artist",
+              "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6ZqIHdXihVs8ZTaENaN7nZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/6ZqIHdXihVs8ZTaENaN7nZ",
+          "id": "6ZqIHdXihVs8ZTaENaN7nZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/28c907df354cd451ce40ea4bb951867f091dc3d7",
+              "width": 628
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a687e842144b7a3046cee54ceab66bf6778ddae1",
+              "width": 295
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/e4959325c8011716075b8e9c8569784b9efa1a06",
+              "width": 63
+            }
+          ],
+          "name": "Both Sides (Remastered)",
+          "release_date": "1993-10-19",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:6ZqIHdXihVs8ZTaENaN7nZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+            },
+            "href": "https://api.spotify.com/v1/artists/4lxfqrEsLX6N1N4OCSkILp",
+            "id": "4lxfqrEsLX6N1N4OCSkILp",
+            "name": "Phil Collins",
+            "type": "artist",
+            "uri": "spotify:artist:4lxfqrEsLX6N1N4OCSkILp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 280506,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT21503049"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yIINfKM7FSllGaCFXNawR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2yIINfKM7FSllGaCFXNawR",
+        "id": "2yIINfKM7FSllGaCFXNawR",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Can't Turn Back The Years - 2015 Remastered",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/cf4fde55e55d5951927e229914e414774f31f607?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2yIINfKM7FSllGaCFXNawR"
+      }
+    },
+    {
+      "added_at": "2019-03-21T14:41:03Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+              },
+              "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+              "id": "3CkvROUTQ6nRi9yQOcsB50",
+              "name": "Genesis",
+              "type": "artist",
+              "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD"
+          },
+          "href": "https://api.spotify.com/v1/albums/1meDXzOLASv06BT60e9yYD",
+          "id": "1meDXzOLASv06BT60e9yYD",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a1808d92a0a607bb5b79f7af53b1826442ae8f2b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6b08cc7de75edcfd4447b8bd730b10495cb420c3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c0033a9f00bfe61a4938d2725f6eca2e1ff02704",
+              "width": 64
+            }
+          ],
+          "name": "Abacab",
+          "release_date": "1981-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:1meDXzOLASv06BT60e9yYD"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+            },
+            "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+            "id": "3CkvROUTQ6nRi9yQOcsB50",
+            "name": "Genesis",
+            "type": "artist",
+            "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273773,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAAA0700168"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6blY6tBaaQQibjOBIoC9fQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6blY6tBaaQQibjOBIoC9fQ",
+        "id": "6blY6tBaaQQibjOBIoC9fQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "No Reply At All - 2007 Digital Remaster",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/73796df10ab43823d105a7288ee199af57f46d8a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6blY6tBaaQQibjOBIoC9fQ"
+      }
+    },
+    {
+      "added_at": "2019-03-21T11:59:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+              "id": "4mxWe1mtYIYfP040G38yvS",
+              "name": "Alan Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/48QGWbQC8YSdDQyUVfrAv2"
+          },
+          "href": "https://api.spotify.com/v1/albums/48QGWbQC8YSdDQyUVfrAv2",
+          "id": "48QGWbQC8YSdDQyUVfrAv2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ea472e006571e7967c3e97f89e74f1e7ad4cd4d0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/58bf6d35515a42a0b07c5d7cdae44bd780a6dfbc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/016e87c0698011f074695b0eab1281f8d10ad34f",
+              "width": 64
+            }
+          ],
+          "name": "High Mileage",
+          "release_date": "1998-08-31",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:48QGWbQC8YSdDQyUVfrAv2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+            "id": "4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238893,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAN29800109"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/59Bz9OHvxj0B8ckmzmi9ie"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59Bz9OHvxj0B8ckmzmi9ie",
+        "id": "59Bz9OHvxj0B8ckmzmi9ie",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I'll Go On Loving You",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/6d1364601a09f408204876886d69374039e87c30?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:59Bz9OHvxj0B8ckmzmi9ie"
+      }
+    },
+    {
+      "added_at": "2019-03-20T19:07:28Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+              "id": "4mxWe1mtYIYfP040G38yvS",
+              "name": "Alan Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0tFm46KzjtCgyyfD8iCaiJ"
+          },
+          "href": "https://api.spotify.com/v1/albums/0tFm46KzjtCgyyfD8iCaiJ",
+          "id": "0tFm46KzjtCgyyfD8iCaiJ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02eac5ed2720fbb204aef9eee034da67f8b2f76c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/57c1b287ac594dbcc6f0f84879101427337e55ca",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/74ad5f7f9128ccfc07e5f16d3d1e44086f57ce30",
+              "width": 64
+            }
+          ],
+          "name": "Greatest Hits Volume II",
+          "release_date": "2003",
+          "release_date_precision": "year",
+          "total_tracks": 26,
+          "type": "album",
+          "uri": "spotify:album:0tFm46KzjtCgyyfD8iCaiJ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+            "id": "4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 422240,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAN29900068"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1U6KEQuL5wPJZMR0iHvzqh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1U6KEQuL5wPJZMR0iHvzqh",
+        "id": "1U6KEQuL5wPJZMR0iHvzqh",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Blues Man",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/96cb8b285e3556d503f4eef47335fb10b31b2b46?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1U6KEQuL5wPJZMR0iHvzqh"
+      }
+    },
+    {
+      "added_at": "2019-03-20T18:53:31Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+              "id": "4mxWe1mtYIYfP040G38yvS",
+              "name": "Alan Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4RK2yIqktoJjhkRepGHUif"
+          },
+          "href": "https://api.spotify.com/v1/albums/4RK2yIqktoJjhkRepGHUif",
+          "id": "4RK2yIqktoJjhkRepGHUif",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/99156552dfb544266e111e1a8d0a92425d05bda4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/aa6c08ea5015630002eabcb086daef9bccd5a636",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/797a3488db83a682f7ce204b5d67bb1f660a3e4b",
+              "width": 64
+            }
+          ],
+          "name": "Genuine: The Alan Jackson Story",
+          "release_date": "2016-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 59,
+          "type": "album",
+          "uri": "spotify:album:4RK2yIqktoJjhkRepGHUif"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+            "id": "4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+          }
+        ],
+        "disc_number": 3,
+        "duration_ms": 207573,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAN20000108"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XVLJ62eA8szyqGS7vmVsB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XVLJ62eA8szyqGS7vmVsB",
+        "id": "4XVLJ62eA8szyqGS7vmVsB",
+        "is_local": false,
+        "is_playable": true,
+        "name": "When Somebody Loves You",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/061b69c090ab10040de022a7eecea689878682cf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4XVLJ62eA8szyqGS7vmVsB"
+      }
+    },
+    {
+      "added_at": "2019-03-20T17:10:48Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+              },
+              "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+              "id": "6kACVPfCOnqzgfEF5ryl0x",
+              "name": "Johnny Cash",
+              "type": "artist",
+              "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4449MfWtDgtRQBYZvbPqV6"
+          },
+          "href": "https://api.spotify.com/v1/albums/4449MfWtDgtRQBYZvbPqV6",
+          "id": "4449MfWtDgtRQBYZvbPqV6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/76d0d81904426957eea54bbe27752ed0c91817cd",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bee15f8933287813e822c0a7113ad92792b46dcc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ff8f0a0d45b5fb948cc0b8c8c5fcaa32f9db2eae",
+              "width": 64
+            }
+          ],
+          "name": "With His Hot And Blue Guitar",
+          "release_date": "1957-10-11",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4449MfWtDgtRQBYZvbPqV6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+            },
+            "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+            "id": "6kACVPfCOnqzgfEF5ryl0x",
+            "name": "Johnny Cash",
+            "type": "artist",
+            "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 167440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSE60070039"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Vr6JSWTpl5MIxUHOJ3nny"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Vr6JSWTpl5MIxUHOJ3nny",
+        "id": "1Vr6JSWTpl5MIxUHOJ3nny",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Walk The Line",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/149a75f243932c8eef0051d9edc7b5d3d7a41fd5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1Vr6JSWTpl5MIxUHOJ3nny"
+      }
+    },
+    {
+      "added_at": "2019-03-18T14:47:12Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+              "id": "4mxWe1mtYIYfP040G38yvS",
+              "name": "Alan Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+          },
+          "href": "https://api.spotify.com/v1/albums/26w8J2SKCxa80Bwq6G8ctN",
+          "id": "26w8J2SKCxa80Bwq6G8ctN",
+          "images": [
+            {
+              "height": 635,
+              "url": "https://i.scdn.co/image/11462910376c26e09c656d187d6cd96684d865cf",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/f9ae71287ce3ca59374a7f5e49ac9f51b0fa7d81",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/298827a2bead0edc6cab8f53765924cd5fc7b24d",
+              "width": 64
+            }
+          ],
+          "name": "34 Number Ones",
+          "release_date": "2010-11-19",
+          "release_date_precision": "day",
+          "total_tracks": 37,
+          "type": "album",
+          "uri": "spotify:album:26w8J2SKCxa80Bwq6G8ctN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+            },
+            "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+            "id": "4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 148973,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAN20000035"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5JkGBzxQ6qqf6MSzuLnjV2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JkGBzxQ6qqf6MSzuLnjV2",
+        "id": "5JkGBzxQ6qqf6MSzuLnjV2",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tall, Tall Trees",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/16d6f6365a8d927ea5cd2463d8061c007aec69cc?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:5JkGBzxQ6qqf6MSzuLnjV2"
+      }
+    },
+    {
+      "added_at": "2019-03-18T14:10:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+              },
+              "href": "https://api.spotify.com/v1/artists/36eTeLNx8ErucrEyRm6JOo",
+              "id": "36eTeLNx8ErucrEyRm6JOo",
+              "name": "Shenandoah",
+              "type": "artist",
+              "uri": "spotify:artist:36eTeLNx8ErucrEyRm6JOo"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+          },
+          "href": "https://api.spotify.com/v1/albums/53ggnni69yCjLQIboZCc3e",
+          "id": "53ggnni69yCjLQIboZCc3e",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a6d5f448351acfc6dd136ca39b1ed810ca47d0ca",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/5622c52834468435db960d54eb416b46a37ca338",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/bf3ea71ba99b73eed0881ef906943abb01f5ec0a",
+              "width": 64
+            }
+          ],
+          "name": "Now And Then",
+          "release_date": "1996-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:53ggnni69yCjLQIboZCc3e"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+            },
+            "href": "https://api.spotify.com/v1/artists/36eTeLNx8ErucrEyRm6JOo",
+            "id": "36eTeLNx8ErucrEyRm6JOo",
+            "name": "Shenandoah",
+            "type": "artist",
+            "uri": "spotify:artist:36eTeLNx8ErucrEyRm6JOo"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCN19500054"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0e05wFNr6zg1ULcp4NKs1p",
+        "id": "0e05wFNr6zg1ULcp4NKs1p",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Two Dozen Roses",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/6f9a19f8b348bc53013fd9f60bd19efc1b6287b0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0e05wFNr6zg1ULcp4NKs1p"
+      }
+    },
+    {
+      "added_at": "2019-03-18T14:10:19Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+              },
+              "href": "https://api.spotify.com/v1/artists/54tWKkrjv4bQgKrQrNlecm",
+              "id": "54tWKkrjv4bQgKrQrNlecm",
+              "name": "Asleep At The Wheel",
+              "type": "artist",
+              "uri": "spotify:artist:54tWKkrjv4bQgKrQrNlecm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4BqUxjxmxXAyXcYxaaw17u"
+          },
+          "href": "https://api.spotify.com/v1/albums/4BqUxjxmxXAyXcYxaaw17u",
+          "id": "4BqUxjxmxXAyXcYxaaw17u",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d3e52ae84b5a986d2f11a6174dccddb8a9e694c8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/03379b898b64015a113012982687dda24f540bfa",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/0dd764638e2ee3695f2a1ff82ec060ab6ef341f4",
+              "width": 64
+            }
+          ],
+          "name": "The Very Best of Asleep at the Wheel",
+          "release_date": "2004-04-04",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:4BqUxjxmxXAyXcYxaaw17u"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+            },
+            "href": "https://api.spotify.com/v1/artists/54tWKkrjv4bQgKrQrNlecm",
+            "id": "54tWKkrjv4bQgKrQrNlecm",
+            "name": "Asleep At The Wheel",
+            "type": "artist",
+            "uri": "spotify:artist:54tWKkrjv4bQgKrQrNlecm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230893,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US39H0400014"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/53DYX4ai8GYPq1yPA1o4EP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53DYX4ai8GYPq1yPA1o4EP",
+        "id": "53DYX4ai8GYPq1yPA1o4EP",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2CGFx7iMCIWjo0xOkdZiPS"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2CGFx7iMCIWjo0xOkdZiPS",
+          "id": "2CGFx7iMCIWjo0xOkdZiPS",
+          "type": "track",
+          "uri": "spotify:track:2CGFx7iMCIWjo0xOkdZiPS"
+        },
+        "name": "The Letter (That Johnny Walker Read)",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/afdbd1e6a8e50f98453ec7a77c617780125acc47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:53DYX4ai8GYPq1yPA1o4EP"
+      }
+    },
+    {
+      "added_at": "2019-03-17T03:02:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+              },
+              "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+              "id": "3CkvROUTQ6nRi9yQOcsB50",
+              "name": "Genesis",
+              "type": "artist",
+              "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1meDXzOLASv06BT60e9yYD"
+          },
+          "href": "https://api.spotify.com/v1/albums/1meDXzOLASv06BT60e9yYD",
+          "id": "1meDXzOLASv06BT60e9yYD",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a1808d92a0a607bb5b79f7af53b1826442ae8f2b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6b08cc7de75edcfd4447b8bd730b10495cb420c3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c0033a9f00bfe61a4938d2725f6eca2e1ff02704",
+              "width": 64
+            }
+          ],
+          "name": "Abacab",
+          "release_date": "1981-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:1meDXzOLASv06BT60e9yYD"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+            },
+            "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+            "id": "3CkvROUTQ6nRi9yQOcsB50",
+            "name": "Genesis",
+            "type": "artist",
+            "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 267400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAAA0700172"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RT4AjOSaDNCApCaphsJRo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RT4AjOSaDNCApCaphsJRo",
+        "id": "2RT4AjOSaDNCApCaphsJRo",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0oZIhxPO45rQkDIMr75gK5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0oZIhxPO45rQkDIMr75gK5",
+          "id": "0oZIhxPO45rQkDIMr75gK5",
+          "type": "track",
+          "uri": "spotify:track:0oZIhxPO45rQkDIMr75gK5"
+        },
+        "name": "Man On The Corner - Remaster 2007",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/cb5873ad873d9b4d5887c90816aa5070fc0bee0b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2RT4AjOSaDNCApCaphsJRo"
+      }
+    },
+    {
+      "added_at": "2019-03-11T14:33:57Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+              "id": "0Ty63ceoRnnJKVEYP0VQpk",
+              "name": "Sting",
+              "type": "artist",
+              "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+          },
+          "href": "https://api.spotify.com/v1/albums/5kV0KBXfELibs6qQJLmOtg",
+          "id": "5kV0KBXfELibs6qQJLmOtg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/1df4b1179ac505de4fc0745132c804c6c81e3f20",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f8c6d8bdd5a6e4561b5fb93eac2cfc6a4000f30b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8cd4bd9ee857dbc7355a9d0ca438ded67091d4c8",
+              "width": 64
+            }
+          ],
+          "name": "Ten Summoner's Tales",
+          "release_date": "1993-03-09",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:5kV0KBXfELibs6qQJLmOtg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+            "id": "0Ty63ceoRnnJKVEYP0VQpk",
+            "name": "Sting",
+            "type": "artist",
+            "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222120,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAAM9390003"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0I1DJdLt9BKOb7GWmWxCjo",
+        "id": "0I1DJdLt9BKOb7GWmWxCjo",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4dzYaReISXJQSL0VQHVGUw"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4dzYaReISXJQSL0VQHVGUw",
+          "id": "4dzYaReISXJQSL0VQHVGUw",
+          "type": "track",
+          "uri": "spotify:track:4dzYaReISXJQSL0VQHVGUw"
+        },
+        "name": "Fields Of Gold",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/893cff35c04f464a379fe1d71b3d3236da0c74ea?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0I1DJdLt9BKOb7GWmWxCjo"
+      }
+    },
+    {
+      "added_at": "2019-03-11T04:00:30Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+              "id": "0Ty63ceoRnnJKVEYP0VQpk",
+              "name": "Sting",
+              "type": "artist",
+              "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+          },
+          "href": "https://api.spotify.com/v1/albums/5kV0KBXfELibs6qQJLmOtg",
+          "id": "5kV0KBXfELibs6qQJLmOtg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/1df4b1179ac505de4fc0745132c804c6c81e3f20",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f8c6d8bdd5a6e4561b5fb93eac2cfc6a4000f30b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8cd4bd9ee857dbc7355a9d0ca438ded67091d4c8",
+              "width": 64
+            }
+          ],
+          "name": "Ten Summoner's Tales",
+          "release_date": "1993-03-09",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:5kV0KBXfELibs6qQJLmOtg"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Ty63ceoRnnJKVEYP0VQpk",
+            "id": "0Ty63ceoRnnJKVEYP0VQpk",
+            "name": "Sting",
+            "type": "artist",
+            "uri": "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279226,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAAM9390010"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6CKoWCWAqEVWVjpeoJXyNH",
+        "id": "6CKoWCWAqEVWVjpeoJXyNH",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1ZXfToGBX4iSwghR23xf1h"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1ZXfToGBX4iSwghR23xf1h",
+          "id": "1ZXfToGBX4iSwghR23xf1h",
+          "type": "track",
+          "uri": "spotify:track:1ZXfToGBX4iSwghR23xf1h"
+        },
+        "name": "Shape Of My Heart",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/a58b130e2be105a3ed45fc102112eeea996adcf7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6CKoWCWAqEVWVjpeoJXyNH"
+      }
+    },
+    {
+      "added_at": "2019-03-11T03:54:30Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+              },
+              "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
+              "id": "20JZFwl6HVl6yg8a4H3ZqK",
+              "name": "Panic! At The Disco",
+              "type": "artist",
+              "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+          },
+          "href": "https://api.spotify.com/v1/albums/6twKQ0EsUJHVlAr6XBylrj",
+          "id": "6twKQ0EsUJHVlAr6XBylrj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a1e4ed2942e4a9b4fce5d654cb28fc30ceb968ef",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2071aea7efa2dfcd43268212cc5b001cb1c3858e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f86ca094622c8a47e3d9cb1e4bf270d5b3767ed3",
+              "width": 64
+            }
+          ],
+          "name": "Death Of A Bachelor",
+          "release_date": "2016-01-15",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:6twKQ0EsUJHVlAr6XBylrj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+            },
+            "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
+            "id": "20JZFwl6HVl6yg8a4H3ZqK",
+            "name": "Panic! At The Disco",
+            "type": "artist",
+            "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 213093,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAT21503695"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fh3bZ8jZhMxOcfESE9nQY",
+        "id": "2fh3bZ8jZhMxOcfESE9nQY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Don't Threaten Me With A Good Time",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/eb0a73fd5203548d8828e9bffdf9019f5457dac9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2fh3bZ8jZhMxOcfESE9nQY"
+      }
+    },
+    {
+      "added_at": "2019-03-11T03:45:30Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+              },
+              "href": "https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp",
+              "id": "53QzNeFpzAaXYnrDBbDrIp",
+              "name": "The Isley Brothers",
+              "type": "artist",
+              "uri": "spotify:artist:53QzNeFpzAaXYnrDBbDrIp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs"
+          },
+          "href": "https://api.spotify.com/v1/albums/21O10zQ7YrFOTgfyRmopHs",
+          "id": "21O10zQ7YrFOTgfyRmopHs",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/6f11cf70b7e7998b316be1d572d296edef04b6f5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/11a546d1a0a7c44a0f47db3c74847cb35a8e1d46",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2eb86b062128fd0e542fbfc70f13393175a3e10a",
+              "width": 64
+            }
+          ],
+          "name": "It's Your Thing: The Story Of The Isley Brothers",
+          "release_date": "1999",
+          "release_date_precision": "year",
+          "total_tracks": 50,
+          "type": "album",
+          "uri": "spotify:album:21O10zQ7YrFOTgfyRmopHs"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+            },
+            "href": "https://api.spotify.com/v1/artists/53QzNeFpzAaXYnrDBbDrIp",
+            "id": "53QzNeFpzAaXYnrDBbDrIp",
+            "name": "The Isley Brothers",
+            "type": "artist",
+            "uri": "spotify:artist:53QzNeFpzAaXYnrDBbDrIp"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 334333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM19803500"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5hTyIlRYTc0sNHk5wDk6Xl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5hTyIlRYTc0sNHk5wDk6Xl",
+        "id": "5hTyIlRYTc0sNHk5wDk6Xl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "That Lady - Pt. 1 & 2",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/3ec7facbeee49234e8bcccf5d2adf928b1668be1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5hTyIlRYTc0sNHk5wDk6Xl"
+      }
+    },
+    {
+      "added_at": "2019-03-08T18:02:39Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+              "id": "1dfeR4HaWDbWqFHLkxsg1d",
+              "name": "Queen",
+              "type": "artist",
+              "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+          },
+          "href": "https://api.spotify.com/v1/albums/75eP8LZolyNBpqIRyB5pvB",
+          "id": "75eP8LZolyNBpqIRyB5pvB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/beae4292c3214147a7201ef48f855b4ed40ff84e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f11aa4ef8ef3ff97ab9322f362f77f2eec4744a5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/16f066184e92b296f9a202a326633a934607cb88",
+              "width": 64
+            }
+          ],
+          "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+          "release_date": "1975-11-21",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:75eP8LZolyNBpqIRyB5pvB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217386,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71100536"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YJUTdZ0Pgl0ZeNyHYXeLd",
+        "id": "4YJUTdZ0Pgl0ZeNyHYXeLd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love Of My Life - Remastered 2011",
+        "popularity": 80,
+        "preview_url": "https://p.scdn.co/mp3-preview/c1d2b95c4036d925520bfc89f139abc54d252d04?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4YJUTdZ0Pgl0ZeNyHYXeLd"
+      }
+    },
+    {
+      "added_at": "2019-03-08T14:06:55Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+              },
+              "href": "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+              "id": "2B4ZHz4QDWJTXPFPgO5peE",
+              "name": "Warren G",
+              "type": "artist",
+              "uri": "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+          },
+          "href": "https://api.spotify.com/v1/albums/2VMGv3inRLPM4GOMXf37qu",
+          "id": "2VMGv3inRLPM4GOMXf37qu",
+          "images": [
+            {
+              "height": 629,
+              "url": "https://i.scdn.co/image/33c9c916ba4def46eb5f3ca043dba77156acd8df",
+              "width": 640
+            },
+            {
+              "height": 295,
+              "url": "https://i.scdn.co/image/be0dbbb06cb10653d6ee81055bc2c426e4dc1bbf",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/2adab3172343056407a7774aa313824fbb7df193",
+              "width": 64
+            }
+          ],
+          "name": "Regulate… G Funk Era",
+          "release_date": "1994-06-07",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:2VMGv3inRLPM4GOMXf37qu"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2B4ZHz4QDWJTXPFPgO5peE",
+            "id": "2B4ZHz4QDWJTXPFPgO5peE",
+            "name": "Warren G",
+            "type": "artist",
+            "uri": "spotify:artist:2B4ZHz4QDWJTXPFPgO5peE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
+            },
+            "href": "https://api.spotify.com/v1/artists/23Ul4QNOkm2gasKycag0UK",
+            "id": "23Ul4QNOkm2gasKycag0UK",
+            "name": "O.G.L.B.",
+            "type": "artist",
+            "uri": "spotify:artist:23Ul4QNOkm2gasKycag0UK"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203026,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USPR39401373"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2ImuQo1g14CTR9hZAZD3aQ",
+        "id": "2ImuQo1g14CTR9hZAZD3aQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "This D.J.",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/b30156bb2c6b874a045329a37e679658b0878b6f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2ImuQo1g14CTR9hZAZD3aQ"
+      }
+    },
+    {
+      "added_at": "2019-03-08T01:42:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
+              },
+              "href": "https://api.spotify.com/v1/artists/4avp60HMZY8XgYe7VGi4SU",
+              "id": "4avp60HMZY8XgYe7VGi4SU",
+              "name": "Claudinho & Buchecha",
+              "type": "artist",
+              "uri": "spotify:artist:4avp60HMZY8XgYe7VGi4SU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5Lrg6ydUyNM59c9PJW7Bny"
+          },
+          "href": "https://api.spotify.com/v1/albums/5Lrg6ydUyNM59c9PJW7Bny",
+          "id": "5Lrg6ydUyNM59c9PJW7Bny",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/1b7422042ff7536d6a9a175431c99ce82b87e941",
+              "width": 639
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3ad2607b279221de8860e8499fac1c1c03b32226",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f5e162646751901d8ec30070797b08225bcf9cb3",
+              "width": 64
+            }
+          ],
+          "name": "A Forma",
+          "release_date": "1997-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:5Lrg6ydUyNM59c9PJW7Bny"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4avp60HMZY8XgYe7VGi4SU",
+            "id": "4avp60HMZY8XgYe7VGi4SU",
+            "name": "Claudinho & Buchecha",
+            "type": "artist",
+            "uri": "spotify:artist:4avp60HMZY8XgYe7VGi4SU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230626,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRMCA9700231"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3AYcFdYKSL8mVqJWwCpS60",
+        "id": "3AYcFdYKSL8mVqJWwCpS60",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Quero Te Encontrar",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/5aec13490d667483ee859ee2ecf316e03adb85a9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3AYcFdYKSL8mVqJWwCpS60"
+      }
+    },
+    {
+      "added_at": "2019-03-07T19:54:30Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3jcHyrPcJhrTMdlthE8p74"
+              },
+              "href": "https://api.spotify.com/v1/artists/3jcHyrPcJhrTMdlthE8p74",
+              "id": "3jcHyrPcJhrTMdlthE8p74",
+              "name": "The Young Professionals",
+              "type": "artist",
+              "uri": "spotify:artist:3jcHyrPcJhrTMdlthE8p74"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0DhfNfYBtds2f3u10cWwTQ"
+          },
+          "href": "https://api.spotify.com/v1/albums/0DhfNfYBtds2f3u10cWwTQ",
+          "id": "0DhfNfYBtds2f3u10cWwTQ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4ce8cbdb970e653b6fa27cfe981e3160c2ca14f3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2c61315d9d0e27dc167f647915071a922d1554f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/36883aa81e362da430ad4cea15f7b4f970b753a3",
+              "width": 64
+            }
+          ],
+          "name": "Remixes & Covers",
+          "release_date": "2015-06-29",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:0DhfNfYBtds2f3u10cWwTQ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+            },
+            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+            "id": "00FQb4jTyendYWaN8pK0wa",
+            "name": "Lana Del Rey",
+            "type": "artist",
+            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3jcHyrPcJhrTMdlthE8p74"
+            },
+            "href": "https://api.spotify.com/v1/artists/3jcHyrPcJhrTMdlthE8p74",
+            "id": "3jcHyrPcJhrTMdlthE8p74",
+            "name": "The Young Professionals",
+            "type": "artist",
+            "uri": "spotify:artist:3jcHyrPcJhrTMdlthE8p74"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238719,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71403687"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/19ctE7OwzVXhyeQJCoWrFK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/19ctE7OwzVXhyeQJCoWrFK",
+        "id": "19ctE7OwzVXhyeQJCoWrFK",
+        "is_local": false,
+        "is_playable": true,
+        "name": "West Coast - The Young Professionals Minimal Remix",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/3daa7de188015a85e6a6086eb41a6b91ed047c93?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:19ctE7OwzVXhyeQJCoWrFK"
+      }
+    },
+    {
+      "added_at": "2019-03-06T00:44:18Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+              },
+              "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+              "id": "00FQb4jTyendYWaN8pK0wa",
+              "name": "Lana Del Rey",
+              "type": "artist",
+              "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+          },
+          "href": "https://api.spotify.com/v1/albums/5VoeRuTrGhTbKelUfwymwu",
+          "id": "5VoeRuTrGhTbKelUfwymwu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0ec6b3e2cb620536f7d4b1323706d0ea5ceb37ad",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a7e08d5088c159a9a1a6504b186337cb9399cdf2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/acb853ec62613a64836711468ea771b8a3703e75",
+              "width": 64
+            }
+          ],
+          "name": "Born To Die - The Paradise Edition",
+          "release_date": "2012-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 23,
+          "type": "album",
+          "uri": "spotify:album:5VoeRuTrGhTbKelUfwymwu"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+            },
+            "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+            "id": "00FQb4jTyendYWaN8pK0wa",
+            "name": "Lana Del Rey",
+            "type": "artist",
+            "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222920,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBUM71111528"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2vtmY2mSccRzKGjtcHSzI3",
+        "id": "2vtmY2mSccRzKGjtcHSzI3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Diet Mountain Dew",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e098556b0b7088384482e10b97cd37e1e828215?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2vtmY2mSccRzKGjtcHSzI3"
+      }
+    },
+    {
+      "added_at": "2019-02-28T16:27:18Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+              },
+              "href": "https://api.spotify.com/v1/artists/3y24n3XhZ96wgwRXjvS17T",
+              "id": "3y24n3XhZ96wgwRXjvS17T",
+              "name": "Coolio",
+              "type": "artist",
+              "uri": "spotify:artist:3y24n3XhZ96wgwRXjvS17T"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g"
+          },
+          "href": "https://api.spotify.com/v1/albums/0fYctMs4EvoEqzDh8Kmg5g",
+          "id": "0fYctMs4EvoEqzDh8Kmg5g",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/2969c7da977d555a15958e4774f8834352469950",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ddb172b2215b5d1ac8a7264b39a349effe193e68",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b24d33248f969b2c1b748b33fee9b6e1a1304619",
+              "width": 64
+            }
+          ],
+          "name": "Gangsta's Paradise",
+          "release_date": "1995-11-07",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:0fYctMs4EvoEqzDh8Kmg5g"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+            },
+            "href": "https://api.spotify.com/v1/artists/3y24n3XhZ96wgwRXjvS17T",
+            "id": "3y24n3XhZ96wgwRXjvS17T",
+            "name": "Coolio",
+            "type": "artist",
+            "uri": "spotify:artist:3y24n3XhZ96wgwRXjvS17T"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 263840,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USTB10400134"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3xvz1bYqh4loPjzR1xqz3K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3xvz1bYqh4loPjzR1xqz3K",
+        "id": "3xvz1bYqh4loPjzR1xqz3K",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Is This Me?",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/dbc674240f7c9bbc40c227d48d83f8af5e462261?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3xvz1bYqh4loPjzR1xqz3K"
+      }
+    },
+    {
+      "added_at": "2019-02-27T18:13:16Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Vários intérpretes",
+              "type": "artist",
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7i8x5IaCIzMAUNjSjLKsCV"
+          },
+          "href": "https://api.spotify.com/v1/albums/7i8x5IaCIzMAUNjSjLKsCV",
+          "id": "7i8x5IaCIzMAUNjSjLKsCV",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://i.scdn.co/image/51762b33a876d35160443aa2d3d347bbcab40353",
+              "width": 640
+            },
+            {
+              "height": 297,
+              "url": "https://i.scdn.co/image/4f9f35b5a4757c31e7ff6a17f42aad3048cd22d2",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/311a954e82b91ce2d8db4b45b572e7cffed4aeb3",
+              "width": 64
+            }
+          ],
+          "name": "The Wash",
+          "release_date": "2001-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:7i8x5IaCIzMAUNjSjLKsCV"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG",
+            "id": "7hJcb9fa4alzcOq3EaNPoG",
+            "name": "Snoop Dogg",
+            "type": "artist",
+            "uri": "spotify:artist:7hJcb9fa4alzcOq3EaNPoG"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200693,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USIR10120252"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6Sfjns8CRlgVUK1rswTwPr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Sfjns8CRlgVUK1rswTwPr",
+        "id": "6Sfjns8CRlgVUK1rswTwPr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Wash",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/9d773be996fd02f64ab638604eb8db988feef81c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:6Sfjns8CRlgVUK1rswTwPr"
+      }
+    },
+    {
+      "added_at": "2019-02-27T18:09:49Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+              },
+              "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+              "id": "6DPYiyq5kWVQS4RGwxzPC7",
+              "name": "Dr. Dre",
+              "type": "artist",
+              "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0qRYw8PUU2AE7MPTvC9AwF"
+          },
+          "href": "https://api.spotify.com/v1/albums/0qRYw8PUU2AE7MPTvC9AwF",
+          "id": "0qRYw8PUU2AE7MPTvC9AwF",
+          "images": [
+            {
+              "height": 636,
+              "url": "https://i.scdn.co/image/67f1db3b5e4e95808725a5bb39c1e0a15d449b48",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/a4ab885062d46754490d96678501dae5b287e585",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ebe56f4cb253f95d31c6a3f9dc99a6ccd7b9e5d5",
+              "width": 64
+            }
+          ],
+          "name": "2001",
+          "release_date": "1999-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 22,
+          "type": "album",
+          "uri": "spotify:album:0qRYw8PUU2AE7MPTvC9AwF"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+            },
+            "href": "https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7",
+            "id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "name": "Dr. Dre",
+            "type": "artist",
+            "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+            },
+            "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "type": "artist",
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tujQJicOnuZRLiBFdp3Ou",
+            "id": "4tujQJicOnuZRLiBFdp3Ou",
+            "name": "Xzibit",
+            "type": "artist",
+            "uri": "spotify:artist:4tujQJicOnuZRLiBFdp3Ou"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244226,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USIR19915074"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7GkrhcYfflOImusWPIFrPN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7GkrhcYfflOImusWPIFrPN",
+        "id": "7GkrhcYfflOImusWPIFrPN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "What's The Difference",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/96c0d36517cfaa0c3b447927254d45bb1783bc4e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7GkrhcYfflOImusWPIFrPN"
+      }
+    },
+    {
+      "added_at": "2019-02-27T12:50:51Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+              },
+              "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+              "id": "6mdiAmATAx73kdxrNrnlao",
+              "name": "Iron Maiden",
+              "type": "artist",
+              "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh"
+          },
+          "href": "https://api.spotify.com/v1/albums/2Y8x0EEu7il0K2gCQIqVRh",
+          "id": "2Y8x0EEu7il0K2gCQIqVRh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/5dd7703b53a32d2518b44aebf8853c8ce5255a23",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/dfe6d992209a48aeb8818c194d4d563eebcb589b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/c84ac3dc9ff7ede2fdccabb640c5884824cc99d9",
+              "width": 64
+            }
+          ],
+          "name": "Dance Of Death (2015 Remaster)",
+          "release_date": "2003",
+          "release_date_precision": "year",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:2Y8x0EEu7il0K2gCQIqVRh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+            },
+            "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+            "id": "6mdiAmATAx73kdxrNrnlao",
+            "name": "Iron Maiden",
+            "type": "artist",
+            "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 516426,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBCHB1800116"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4YsgFGkP1KeSFDWfZqVioX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YsgFGkP1KeSFDWfZqVioX",
+        "id": "4YsgFGkP1KeSFDWfZqVioX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dance of Death - 2015 Remaster",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/e56c3421962e6004a65361945a0c7d12875c0af4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4YsgFGkP1KeSFDWfZqVioX"
+      }
+    },
+    {
+      "added_at": "2019-02-25T15:21:39Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+              },
+              "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+              "id": "0lZoBs4Pzo7R89JM9lxwoT",
+              "name": "Duran Duran",
+              "type": "artist",
+              "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+          },
+          "href": "https://api.spotify.com/v1/albums/0PqCkTvKFJxzr9uujq7a3T",
+          "id": "0PqCkTvKFJxzr9uujq7a3T",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3daf5475fe6260a42459a7d9b4af528fe0251e88",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/6e2c86d74ed2a45c51f8a6ce3dad93a0c802ed89",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/af6bf7884732656498eb11578b0f497a9bd01c8f",
+              "width": 64
+            }
+          ],
+          "name": "Duran Duran [The Wedding Album]",
+          "release_date": "1993-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:0PqCkTvKFJxzr9uujq7a3T"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+            },
+            "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+            "id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "name": "Duran Duran",
+            "type": "artist",
+            "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 340200,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAYE9200048"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wokCRaKD0zPNhMRXAgVsr",
+        "id": "0wokCRaKD0zPNhMRXAgVsr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ordinary World",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/ae154ee5132609e3f7322039bc04491d73367d05?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0wokCRaKD0zPNhMRXAgVsr"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:43:12Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+              },
+              "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+              "id": "04gDigrS5kc9YWfZHwBETP",
+              "name": "Maroon 5",
+              "type": "artist",
+              "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2Zp8p8ZO12s6ThkT5DCJrb"
+          },
+          "href": "https://api.spotify.com/v1/albums/2Zp8p8ZO12s6ThkT5DCJrb",
+          "id": "2Zp8p8ZO12s6ThkT5DCJrb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/03c6f55c962186a6981c32ba974970d8cc457077",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c824dbe2bf2883e2bdaffc6c923c493f356229a9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/19d05b9ed06436b92c08a431ba2f9a456ef2b7ab",
+              "width": 64
+            }
+          ],
+          "name": "It Won't Be Soon Before Long",
+          "release_date": "2007",
+          "release_date_precision": "year",
+          "total_tracks": 19,
+          "type": "album",
+          "uri": "spotify:album:2Zp8p8ZO12s6ThkT5DCJrb"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+            },
+            "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+            "id": "04gDigrS5kc9YWfZHwBETP",
+            "name": "Maroon 5",
+            "type": "artist",
+            "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190346,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70733993"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dHuiDJMd62VoPW14FJjVB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dHuiDJMd62VoPW14FJjVB",
+        "id": "7dHuiDJMd62VoPW14FJjVB",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Miss You Love You - Non LP Version",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/3139c1547b532308506707e94f4ed11d9fc555d5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:7dHuiDJMd62VoPW14FJjVB"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:35:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+              },
+              "href": "https://api.spotify.com/v1/artists/0i1s9WcIu0PrUvHzALgofo",
+              "id": "0i1s9WcIu0PrUvHzALgofo",
+              "name": "Seu Jorge",
+              "type": "artist",
+              "uri": "spotify:artist:0i1s9WcIu0PrUvHzALgofo"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Pa8BTHNbSfIxkiNmhpnKC"
+          },
+          "href": "https://api.spotify.com/v1/albums/0Pa8BTHNbSfIxkiNmhpnKC",
+          "id": "0Pa8BTHNbSfIxkiNmhpnKC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/efa105cd7a09ea545add28f59ec2bed074f2eb84",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/df0a95d9e5aefd0d3ec2245fa61472cf676b8893",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/44a13af6fd66d39225c888af07873c8e5d65c941",
+              "width": 64
+            }
+          ],
+          "name": "Cru",
+          "release_date": "2004",
+          "release_date_precision": "year",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:0Pa8BTHNbSfIxkiNmhpnKC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+            },
+            "href": "https://api.spotify.com/v1/artists/0i1s9WcIu0PrUvHzALgofo",
+            "id": "0i1s9WcIu0PrUvHzALgofo",
+            "name": "Seu Jorge",
+            "type": "artist",
+            "uri": "spotify:artist:0i1s9WcIu0PrUvHzALgofo"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 272133,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "FRYFV0400010"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6kIxfqaDCWLGgH9z0ce3zX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6kIxfqaDCWLGgH9z0ce3zX",
+        "id": "6kIxfqaDCWLGgH9z0ce3zX",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3ZdCv580KDwVvB5KF7gjG5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3ZdCv580KDwVvB5KF7gjG5",
+          "id": "3ZdCv580KDwVvB5KF7gjG5",
+          "type": "track",
+          "uri": "spotify:track:3ZdCv580KDwVvB5KF7gjG5"
+        },
+        "name": "Tive Razao",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/731d7079e44372699e1373dee4082b5ee9a7c519?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6kIxfqaDCWLGgH9z0ce3zX"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:34:59Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+              },
+              "href": "https://api.spotify.com/v1/artists/3W4lVkySjtIvd67UUg0F3i",
+              "id": "3W4lVkySjtIvd67UUg0F3i",
+              "name": "Cabas",
+              "type": "artist",
+              "uri": "spotify:artist:3W4lVkySjtIvd67UUg0F3i"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4JCWnGDTZtoAjmBeDeOmjE"
+          },
+          "href": "https://api.spotify.com/v1/albums/4JCWnGDTZtoAjmBeDeOmjE",
+          "id": "4JCWnGDTZtoAjmBeDeOmjE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/2ec131842104807492b26dbeeb4e0da2c9f991ad",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ba5c5166c89c765da225628d84ebf64bac20a610",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/223d8f75c7f8951515c5605557cda94da8cc01ef",
+              "width": 64
+            }
+          ],
+          "name": "Puro Cabas",
+          "release_date": "2005-06-15",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:4JCWnGDTZtoAjmBeDeOmjE"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+            },
+            "href": "https://api.spotify.com/v1/artists/3W4lVkySjtIvd67UUg0F3i",
+            "id": "3W4lVkySjtIvd67UUg0F3i",
+            "name": "Cabas",
+            "type": "artist",
+            "uri": "spotify:artist:3W4lVkySjtIvd67UUg0F3i"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223880,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "COUM71600144"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fJnadpxclVFhdVhIK3uvI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fJnadpxclVFhdVhIK3uvI",
+        "id": "2fJnadpxclVFhdVhIK3uvI",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6nuBmRH58kkgpZSL7bVcpE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6nuBmRH58kkgpZSL7bVcpE",
+          "id": "6nuBmRH58kkgpZSL7bVcpE",
+          "type": "track",
+          "uri": "spotify:track:6nuBmRH58kkgpZSL7bVcpE"
+        },
+        "name": "La Cadena De Oro",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/7168bc3ad89ca56a777c8d15ff7764337e58092e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2fJnadpxclVFhdVhIK3uvI"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:34:49Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0EbhmxFgno89aNQUnamFNW"
+              },
+              "href": "https://api.spotify.com/v1/artists/0EbhmxFgno89aNQUnamFNW",
+              "id": "0EbhmxFgno89aNQUnamFNW",
+              "name": "Young Love",
+              "type": "artist",
+              "uri": "spotify:artist:0EbhmxFgno89aNQUnamFNW"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/36XBifBZoPyhczlXOiFBbk"
+          },
+          "href": "https://api.spotify.com/v1/albums/36XBifBZoPyhczlXOiFBbk",
+          "id": "36XBifBZoPyhczlXOiFBbk",
+          "images": [
+            {
+              "height": 636,
+              "url": "https://i.scdn.co/image/dd105c49f38538e9d9b5ddf70d414d8f43dbfa16",
+              "width": 640
+            },
+            {
+              "height": 298,
+              "url": "https://i.scdn.co/image/e028c74600491b91e12c0293a9da3a520b9d9509",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d6b35dde48dc08d2ef884345c753ad1179b46c6a",
+              "width": 64
+            }
+          ],
+          "name": "Too Young To Fight It",
+          "release_date": "2007-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:36XBifBZoPyhczlXOiFBbk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0EbhmxFgno89aNQUnamFNW"
+            },
+            "href": "https://api.spotify.com/v1/artists/0EbhmxFgno89aNQUnamFNW",
+            "id": "0EbhmxFgno89aNQUnamFNW",
+            "name": "Young Love",
+            "type": "artist",
+            "uri": "spotify:artist:0EbhmxFgno89aNQUnamFNW"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234360,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70603777"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3GJX0GOl3zCsbKZNrppIxV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3GJX0GOl3zCsbKZNrppIxV",
+        "id": "3GJX0GOl3zCsbKZNrppIxV",
+        "is_local": false,
+        "is_playable": true,
+        "linked_from": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6GIv4Q97QM7ep6Hc3GLHTz"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6GIv4Q97QM7ep6Hc3GLHTz",
+          "id": "6GIv4Q97QM7ep6Hc3GLHTz",
+          "type": "track",
+          "uri": "spotify:track:6GIv4Q97QM7ep6Hc3GLHTz"
+        },
+        "name": "Discotech",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/e42e8a0884e515b31c8b79d2cb042b8889f8ee08?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3GJX0GOl3zCsbKZNrppIxV"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:29:47Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+              },
+              "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+              "id": "0C0XlULifJtAgn6ZNCW2eu",
+              "name": "The Killers",
+              "type": "artist",
+              "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+          },
+          "href": "https://api.spotify.com/v1/albums/4o3RJndRhHxkieQzQGhmbw",
+          "id": "4o3RJndRhHxkieQzQGhmbw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3d7b7545a896adc90ba3926be09d4cd3858c7bcb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/fa9fb8c70ef10c7a49e595fe3f40d0fa006294fe",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8ca4204c34953dd588dfac5e235186cb2dd743fc",
+              "width": 64
+            }
+          ],
+          "name": "Sam's Town",
+          "release_date": "2006-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4o3RJndRhHxkieQzQGhmbw"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+            "id": "0C0XlULifJtAgn6ZNCW2eu",
+            "name": "The Killers",
+            "type": "artist",
+            "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70605413"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6suRRwX61xSMfU7wJuCVdy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6suRRwX61xSMfU7wJuCVdy",
+        "id": "6suRRwX61xSMfU7wJuCVdy",
+        "is_local": false,
+        "is_playable": true,
+        "name": "For Reasons Unknown",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/ce7095d52b1d3ec8138298a6884efd7029fb5671?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6suRRwX61xSMfU7wJuCVdy"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:23:36Z",
+      "track": {
+        "album": {
+          "album_type": "compilation",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+              },
+              "href": "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+              "id": "2SHhfs4BiDxGQ3oxqf0UHY",
+              "name": "Roxette",
+              "type": "artist",
+              "uri": "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL"
+          },
+          "href": "https://api.spotify.com/v1/albums/6Zd1OLqFX5geleqvJ9xtAL",
+          "id": "6Zd1OLqFX5geleqvJ9xtAL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b620700a0e24bd5513f9e2c1879bd3c1daec3834",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/89c26532931f2c6b5b7be4f567de33bf3e2dccb0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/9f32051f06cbdd6346bf3f3b9e8bf53e2576fd08",
+              "width": 64
+            }
+          ],
+          "name": "Don't Bore Us - Get To The Chorus! Roxette's Greatest Hits",
+          "release_date": "1995-10-23",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:6Zd1OLqFX5geleqvJ9xtAL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+            },
+            "href": "https://api.spotify.com/v1/artists/2SHhfs4BiDxGQ3oxqf0UHY",
+            "id": "2SHhfs4BiDxGQ3oxqf0UHY",
+            "name": "Roxette",
+            "type": "artist",
+            "uri": "spotify:artist:2SHhfs4BiDxGQ3oxqf0UHY"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "SEAMA8777131"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qB7YcFpeBEQa0D6QO482y",
+        "id": "6qB7YcFpeBEQa0D6QO482y",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It Must Have Been Love - From \"Pretty Woman\"",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/a76b97080dee3bd95b1fb99b592910c976fd55f3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6qB7YcFpeBEQa0D6QO482y"
+      }
+    },
+    {
+      "added_at": "2019-02-25T14:04:56Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+              },
+              "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "name": "Britney Spears",
+              "type": "artist",
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+          },
+          "href": "https://api.spotify.com/v1/albums/0oFBaXLFsUVa2gEmJf4FcJ",
+          "id": "0oFBaXLFsUVa2gEmJf4FcJ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/08f6f9e78b56e4b3c01254665ae114e4b4941bb8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/946155a1faefcbbc3343e67c2ce3349208e20810",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f6bf84bb518ce3615df4ff618a97175728d3f4fb",
+              "width": 64
+            }
+          ],
+          "name": "Femme Fatale (Deluxe Version)",
+          "release_date": "2011-03-25",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:0oFBaXLFsUVa2gEmJf4FcJ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+            },
+            "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "name": "Britney Spears",
+            "type": "artist",
+            "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237946,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USJI11100074"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/38iU2jg98IZZEIJPrP7aWD",
+        "id": "38iU2jg98IZZEIJPrP7aWD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Till the World Ends",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/fd017ae5c0a60cff3d5f5b4d37c4e8617c93b11f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:38iU2jg98IZZEIJPrP7aWD"
+      }
+    },
+    {
+      "added_at": "2019-02-25T13:33:28Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+              },
+              "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+              "id": "4KWTAlx2RvbpseOGMEmROg",
+              "name": "R.E.M.",
+              "type": "artist",
+              "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+          },
+          "href": "https://api.spotify.com/v1/albums/65kIVEdb93smbnC7k4aie7",
+          "id": "65kIVEdb93smbnC7k4aie7",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/35d1f534c6b39ca2eabd3dee1844a7f1154adf0f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c58d2ee088bd41359ced81ccd2e080d400334207",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/bf6cd73be8649ff3df541366e5d86edf2453c5a0",
+              "width": 64
+            }
+          ],
+          "name": "Document - 25th Anniversary Edition",
+          "release_date": "1987-09-01",
+          "release_date_precision": "day",
+          "total_tracks": 31,
+          "type": "album",
+          "uri": "spotify:album:65kIVEdb93smbnC7k4aie7"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+            },
+            "href": "https://api.spotify.com/v1/artists/4KWTAlx2RvbpseOGMEmROg",
+            "id": "4KWTAlx2RvbpseOGMEmROg",
+            "name": "R.E.M.",
+            "type": "artist",
+            "uri": "spotify:artist:4KWTAlx2RvbpseOGMEmROg"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 197800,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USCA21202402"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2fdfsGuqb6SBX5ocoBWHUd",
+        "id": "2fdfsGuqb6SBX5ocoBWHUd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The One I Love - Remastered",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/8740e45add8f41ae27ddf5d8d58a07b0e0f803ac?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2fdfsGuqb6SBX5ocoBWHUd"
+      }
+    },
+    {
+      "added_at": "2019-02-21T19:47:54Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+              },
+              "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+              "id": "3CkvROUTQ6nRi9yQOcsB50",
+              "name": "Genesis",
+              "type": "artist",
+              "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2u0T1xzCoI7ANxWDEj9yl6"
+          },
+          "href": "https://api.spotify.com/v1/albums/2u0T1xzCoI7ANxWDEj9yl6",
+          "id": "2u0T1xzCoI7ANxWDEj9yl6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/f7b923f7898baffb9cfa3250a526e96f02ff88b5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bd9805016de59b0e7a9291eea9762ac945bd144f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f05ceba3460e3d958d00e95358ad6ef060467199",
+              "width": 64
+            }
+          ],
+          "name": "Genesis",
+          "release_date": "1983-10-03",
+          "release_date_precision": "day",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:2u0T1xzCoI7ANxWDEj9yl6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+            },
+            "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+            "id": "3CkvROUTQ6nRi9yQOcsB50",
+            "name": "Genesis",
+            "type": "artist",
+            "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 367400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAAA0700969"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Lm3370rECO2o7qiAUblbp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Lm3370rECO2o7qiAUblbp",
+        "id": "1Lm3370rECO2o7qiAUblbp",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Second Home By The Sea - Digital Remastered 2007",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/b9b81f4139dccc3e12dfb0e408fb7879cbb428a0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1Lm3370rECO2o7qiAUblbp"
+      }
+    },
+    {
+      "added_at": "2019-02-20T20:06:10Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+              },
+              "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+              "id": "0C0XlULifJtAgn6ZNCW2eu",
+              "name": "The Killers",
+              "type": "artist",
+              "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
+          },
+          "href": "https://api.spotify.com/v1/albums/4o3RJndRhHxkieQzQGhmbw",
+          "id": "4o3RJndRhHxkieQzQGhmbw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3d7b7545a896adc90ba3926be09d4cd3858c7bcb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/fa9fb8c70ef10c7a49e595fe3f40d0fa006294fe",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8ca4204c34953dd588dfac5e235186cb2dd743fc",
+              "width": 64
+            }
+          ],
+          "name": "Sam's Town",
+          "release_date": "2006-10-02",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:4o3RJndRhHxkieQzQGhmbw"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+            "id": "0C0XlULifJtAgn6ZNCW2eu",
+            "name": "The Killers",
+            "type": "artist",
+            "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 246026,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70605405"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77Kh98jRHI40rIAKnBs7cl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77Kh98jRHI40rIAKnBs7cl",
+        "id": "77Kh98jRHI40rIAKnBs7cl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sam's Town",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/f0ed9f63abbc8705cbfa3c394e233d11529959c2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:77Kh98jRHI40rIAKnBs7cl"
+      }
+    },
+    {
+      "added_at": "2019-02-20T17:57:35Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+              },
+              "href": "https://api.spotify.com/v1/artists/2hgP9Ap2tc10R5jrQaEpMT",
+              "id": "2hgP9Ap2tc10R5jrQaEpMT",
+              "name": "Charles Aznavour",
+              "type": "artist",
+              "uri": "spotify:artist:2hgP9Ap2tc10R5jrQaEpMT"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6u7CZtz83tmwcgEBIIr3GG"
+          },
+          "href": "https://api.spotify.com/v1/albums/6u7CZtz83tmwcgEBIIr3GG",
+          "id": "6u7CZtz83tmwcgEBIIr3GG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02e63b5aa878045f4952f67461ab9bfa5b1da48d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/3c9fa90fd9c6260643e08c6562bd96571bb2d21b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/048fcf8b303319dd78f5b80c380e0cc8f42881ed",
+              "width": 64
+            }
+          ],
+          "name": "Greatest Golden Hits",
+          "release_date": "1996",
+          "release_date_precision": "year",
+          "total_tracks": 20,
+          "type": "album",
+          "uri": "spotify:album:6u7CZtz83tmwcgEBIIr3GG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+            },
+            "href": "https://api.spotify.com/v1/artists/2hgP9Ap2tc10R5jrQaEpMT",
+            "id": "2hgP9Ap2tc10R5jrQaEpMT",
+            "name": "Charles Aznavour",
+            "type": "artist",
+            "uri": "spotify:artist:2hgP9Ap2tc10R5jrQaEpMT"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214800,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "FRZ117500440"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5YLYgvlpbz64nmqF5E0kXo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5YLYgvlpbz64nmqF5E0kXo",
+        "id": "5YLYgvlpbz64nmqF5E0kXo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Yesterday When I Was Young",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/4dd5e32b0f06130d63e55d0d15e0d2011ef27ec8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5YLYgvlpbz64nmqF5E0kXo"
+      }
+    },
+    {
+      "added_at": "2019-02-18T19:24:35Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+              },
+              "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+              "id": "0C0XlULifJtAgn6ZNCW2eu",
+              "name": "The Killers",
+              "type": "artist",
+              "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+          },
+          "href": "https://api.spotify.com/v1/albums/4OHNH3sDzIxnmUADXzv2kT",
+          "id": "4OHNH3sDzIxnmUADXzv2kT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ac68a9e4a867ec3ce8249cd90a2d7c73755fb487",
+              "width": 629
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/d0186ad64df7d6fc5f65c20c7d16f4279ffeb815",
+              "width": 295
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7c3ec33d478f5f517eeb5339c2f75f150e4d601e",
+              "width": 63
+            }
+          ],
+          "name": "Hot Fuss",
+          "release_date": "2004",
+          "release_date_precision": "year",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:4OHNH3sDzIxnmUADXzv2kT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+            },
+            "href": "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+            "id": "0C0XlULifJtAgn6ZNCW2eu",
+            "name": "The Killers",
+            "type": "artist",
+            "uri": "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258920,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBFFP0300057"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1z7yOTP8Y7UQsrVUAZjgQk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1z7yOTP8Y7UQsrVUAZjgQk",
+        "id": "1z7yOTP8Y7UQsrVUAZjgQk",
+        "is_local": false,
+        "is_playable": true,
+        "name": "On Top",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/3aa321cb58eb23df242015152497fa2352e5fb2d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1z7yOTP8Y7UQsrVUAZjgQk"
+      }
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/me/tracks?offset=350&limit=50&market=from_token",
+  "offset": 300,
+  "previous": "https://api.spotify.com/v1/me/tracks?offset=250&limit=50&market=from_token",
+  "total": 663
+}

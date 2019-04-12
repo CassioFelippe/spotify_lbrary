@@ -1,0 +1,3960 @@
+{
+  "href": "https://api.spotify.com/v1/me/tracks?offset=600&limit=50&market=from_token",
+  "items": [
+    {
+      "added_at": "2018-08-01T11:41:40Z",
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zIRQZdiuV7eRQ5ENZ3s7O"
+          },
+          "href": "https://api.spotify.com/v1/albums/6zIRQZdiuV7eRQ5ENZ3s7O",
+          "id": "6zIRQZdiuV7eRQ5ENZ3s7O",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ee7dfb8d824a244bd4ed64f7598d2c4959dfc5b6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/475422b05123b2fc4099ee2a6880eeec35796bcf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/aa4b30632dd88b8abc559627725d8d22175bddcb",
+              "width": 64
+            }
+          ],
+          "name": "Na Lama do Dia Seguinte / Santanico (2017)",
+          "release_date": "2017-10-13",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:6zIRQZdiuV7eRQ5ENZ3s7O"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 177376,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1700356"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Lt8tHU65Sbf2t9Uu4azcD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Lt8tHU65Sbf2t9Uu4azcD",
+        "id": "4Lt8tHU65Sbf2t9Uu4azcD",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Na Lama do Dia Seguinte",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/1bbfeef7b8f5c966c0b9867638747c20c980112a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Lt8tHU65Sbf2t9Uu4azcD"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:36Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180733,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300144"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3V3kpzgC06sTu5212sHjdJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3V3kpzgC06sTu5212sHjdJ",
+        "id": "3V3kpzgC06sTu5212sHjdJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Pé Na Porta, Soco Na Cara",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/cbc5f46eded15e052b5a99b5973784860991d118?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3V3kpzgC06sTu5212sHjdJ"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:36Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300148"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RXv7fZNLSP3X7xWiJ8e5n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RXv7fZNLSP3X7xWiJ8e5n",
+        "id": "2RXv7fZNLSP3X7xWiJ8e5n",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Último Bar",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/82e3dc8448da21e7ff09a94afa519ee450a1560e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2RXv7fZNLSP3X7xWiJ8e5n"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:36Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 150666,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300150"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3J2CX1gBOgV53Mo3Uy5NoT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3J2CX1gBOgV53Mo3Uy5NoT",
+        "id": "3J2CX1gBOgV53Mo3Uy5NoT",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Todo Ódio da Vingança de Jack Buffalo Head",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/56b1451420f606f0555dbb28c8bee8a5d6b78bae?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3J2CX1gBOgV53Mo3Uy5NoT"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:36Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300149"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/73lIldE4SbKxglgJXiQ7cd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73lIldE4SbKxglgJXiQ7cd",
+        "id": "73lIldE4SbKxglgJXiQ7cd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Maldito Hippie Sujo",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/400d0be0984e44e0a3d12b081134d704c38302a5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:73lIldE4SbKxglgJXiQ7cd"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:36Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7rFB4Dk1ouELg6W39b0u1a"
+          },
+          "href": "https://api.spotify.com/v1/albums/7rFB4Dk1ouELg6W39b0u1a",
+          "id": "7rFB4Dk1ouELg6W39b0u1a",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/80d3bc04386d8d95a0809bfadc8cb1698639b1d4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/24f0536b0890aa1e79642ccf1f320bb509676140",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/61914b71604e0301a728b69efafaae6e81e41c37",
+              "width": 64
+            }
+          ],
+          "name": "Música para Beber e Brigar",
+          "release_date": "2003-08-05",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7rFB4Dk1ouELg6W39b0u1a"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182733,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0300153"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Qxxs9HPT8cXHZbRH7Ete2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Qxxs9HPT8cXHZbRH7Ete2",
+        "id": "1Qxxs9HPT8cXHZbRH7Ete2",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Taberneira, Traga o Gim",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ff93c017842236041f3edce50fe2581d4caf082?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1Qxxs9HPT8cXHZbRH7Ete2"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:24Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ChglvkJZ286JnEJzdXI7A"
+          },
+          "href": "https://api.spotify.com/v1/albums/1ChglvkJZ286JnEJzdXI7A",
+          "id": "1ChglvkJZ286JnEJzdXI7A",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90081e3e442bbb1c1cc0cb618b26dd89fbe698a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/30075136629ab7ad72470e992da7e8c1a1ebb0a6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/39bf39287b1b39a83a3197201f8b1a486f229868",
+              "width": 64
+            }
+          ],
+          "name": "Santa Madre Cassino",
+          "release_date": "2006-11-10",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:1ChglvkJZ286JnEJzdXI7A"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 117960,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0100007"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wYLsKqMJEy6S8zRB1UtoJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wYLsKqMJEy6S8zRB1UtoJ",
+        "id": "0wYLsKqMJEy6S8zRB1UtoJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tombstone City",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/6faa1eb79b40a62bc4d452ea83c87dcd97f44e51?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0wYLsKqMJEy6S8zRB1UtoJ"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:24Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ChglvkJZ286JnEJzdXI7A"
+          },
+          "href": "https://api.spotify.com/v1/albums/1ChglvkJZ286JnEJzdXI7A",
+          "id": "1ChglvkJZ286JnEJzdXI7A",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90081e3e442bbb1c1cc0cb618b26dd89fbe698a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/30075136629ab7ad72470e992da7e8c1a1ebb0a6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/39bf39287b1b39a83a3197201f8b1a486f229868",
+              "width": 64
+            }
+          ],
+          "name": "Santa Madre Cassino",
+          "release_date": "2006-11-10",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:1ChglvkJZ286JnEJzdXI7A"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 95266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0100013"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EGr2v9ECsfbdMcbxmaBSv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EGr2v9ECsfbdMcbxmaBSv",
+        "id": "6EGr2v9ECsfbdMcbxmaBSv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Imbecil",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/e104993b93b751af2279b34db7c862d35a58bcd2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6EGr2v9ECsfbdMcbxmaBSv"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:24Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ChglvkJZ286JnEJzdXI7A"
+          },
+          "href": "https://api.spotify.com/v1/albums/1ChglvkJZ286JnEJzdXI7A",
+          "id": "1ChglvkJZ286JnEJzdXI7A",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90081e3e442bbb1c1cc0cb618b26dd89fbe698a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/30075136629ab7ad72470e992da7e8c1a1ebb0a6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/39bf39287b1b39a83a3197201f8b1a486f229868",
+              "width": 64
+            }
+          ],
+          "name": "Santa Madre Cassino",
+          "release_date": "2006-11-10",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:1ChglvkJZ286JnEJzdXI7A"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 167160,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0100015"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5MYPgMEYY2AvBvdrUlnXls"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5MYPgMEYY2AvBvdrUlnXls",
+        "id": "5MYPgMEYY2AvBvdrUlnXls",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Santa Madre Cassino",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/a62e1d244715d1824f2372d120279f08656cdd1e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:5MYPgMEYY2AvBvdrUlnXls"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6PEu50DHONSUrngaBVAQNk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6PEu50DHONSUrngaBVAQNk",
+          "id": "6PEu50DHONSUrngaBVAQNk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/83ca39660cf026b0a99f575f8167c41b29599dfe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bfe6262e0ed7a002e4e8badf64a62e6e0c4fe630",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00fb3f39bb1332df05986db5691c5fa690d64123",
+              "width": 64
+            }
+          ],
+          "name": "Odiosa Natureza Humana",
+          "release_date": "2011-02-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6PEu50DHONSUrngaBVAQNk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 144266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1100001"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3y8vOmrtJpdyQ3PkaHQRKm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3y8vOmrtJpdyQ3PkaHQRKm",
+        "id": "3y8vOmrtJpdyQ3PkaHQRKm",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Remédios Demais",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/5ebd74a1ec22ef4d56b5bb00ccfab7162a2ebb1d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3y8vOmrtJpdyQ3PkaHQRKm"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6PEu50DHONSUrngaBVAQNk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6PEu50DHONSUrngaBVAQNk",
+          "id": "6PEu50DHONSUrngaBVAQNk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/83ca39660cf026b0a99f575f8167c41b29599dfe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bfe6262e0ed7a002e4e8badf64a62e6e0c4fe630",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00fb3f39bb1332df05986db5691c5fa690d64123",
+              "width": 64
+            }
+          ],
+          "name": "Odiosa Natureza Humana",
+          "release_date": "2011-02-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6PEu50DHONSUrngaBVAQNk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 163600,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1100012"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3enLmvppgGgo2AGl5whW0m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3enLmvppgGgo2AGl5whW0m",
+        "id": "3enLmvppgGgo2AGl5whW0m",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Em Respeito Ao Vício",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/68dcd4e3d6e9fa31c7f358d59fc996297be2e637?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3enLmvppgGgo2AGl5whW0m"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6PEu50DHONSUrngaBVAQNk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6PEu50DHONSUrngaBVAQNk",
+          "id": "6PEu50DHONSUrngaBVAQNk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/83ca39660cf026b0a99f575f8167c41b29599dfe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bfe6262e0ed7a002e4e8badf64a62e6e0c4fe630",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00fb3f39bb1332df05986db5691c5fa690d64123",
+              "width": 64
+            }
+          ],
+          "name": "Odiosa Natureza Humana",
+          "release_date": "2011-02-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6PEu50DHONSUrngaBVAQNk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 156400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1100008"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3F7c6Ze2r8pP1TnHBAIRvR"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3F7c6Ze2r8pP1TnHBAIRvR",
+        "id": "3F7c6Ze2r8pP1TnHBAIRvR",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Escárnio",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/679646049813172914564420362ca4fda0e2dbbf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3F7c6Ze2r8pP1TnHBAIRvR"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6PEu50DHONSUrngaBVAQNk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6PEu50DHONSUrngaBVAQNk",
+          "id": "6PEu50DHONSUrngaBVAQNk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/83ca39660cf026b0a99f575f8167c41b29599dfe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bfe6262e0ed7a002e4e8badf64a62e6e0c4fe630",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00fb3f39bb1332df05986db5691c5fa690d64123",
+              "width": 64
+            }
+          ],
+          "name": "Odiosa Natureza Humana",
+          "release_date": "2011-02-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6PEu50DHONSUrngaBVAQNk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 163600,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1100002"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SgPrP39liz9qtXK7Zq3sf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SgPrP39liz9qtXK7Zq3sf",
+        "id": "2SgPrP39liz9qtXK7Zq3sf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Odiosa Natureza Humana",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/20f742ec84703105fc3dceebf429a5f822f410e1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2SgPrP39liz9qtXK7Zq3sf"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:17Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6PEu50DHONSUrngaBVAQNk"
+          },
+          "href": "https://api.spotify.com/v1/albums/6PEu50DHONSUrngaBVAQNk",
+          "id": "6PEu50DHONSUrngaBVAQNk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/83ca39660cf026b0a99f575f8167c41b29599dfe",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/bfe6262e0ed7a002e4e8badf64a62e6e0c4fe630",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00fb3f39bb1332df05986db5691c5fa690d64123",
+              "width": 64
+            }
+          ],
+          "name": "Odiosa Natureza Humana",
+          "release_date": "2011-02-16",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6PEu50DHONSUrngaBVAQNk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 157600,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1100006"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1J47sCuUtJqYMNLfiibft0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1J47sCuUtJqYMNLfiibft0",
+        "id": "1J47sCuUtJqYMNLfiibft0",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Bebum Acabado",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/0095a5f33205e9554431b0662e8d0ea7411b1cb0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1J47sCuUtJqYMNLfiibft0"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 160626,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500071"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ejyUCWw9t9AbeOrCj5p7t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ejyUCWw9t9AbeOrCj5p7t",
+        "id": "7ejyUCWw9t9AbeOrCj5p7t",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Que Está Feito, Está Feito",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/0c71ebd056e0f082e502a0aa23e8b7f63e40be53?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7ejyUCWw9t9AbeOrCj5p7t"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 167013,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500072"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TlQN2FxABjvDZnDjSivgq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TlQN2FxABjvDZnDjSivgq",
+        "id": "2TlQN2FxABjvDZnDjSivgq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Matadouro 18",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/9f8d2936c032aa59617e22417cb07a8ca23bd0de?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2TlQN2FxABjvDZnDjSivgq"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212453,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500075"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0vwuwEWl4gyO0IdxkbLoBd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0vwuwEWl4gyO0IdxkbLoBd",
+        "id": "0vwuwEWl4gyO0IdxkbLoBd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Pior Cenário Possível",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/6e848940a8f0a6778e5df3aeb235bf832f08df97?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0vwuwEWl4gyO0IdxkbLoBd"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188893,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500076"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Yyj9FV6z2RQJnwLv51j4e"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Yyj9FV6z2RQJnwLv51j4e",
+        "id": "2Yyj9FV6z2RQJnwLv51j4e",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Pessimista",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/00f71f8bbe79ead9d3c49ab75eaaf27532929892?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2Yyj9FV6z2RQJnwLv51j4e"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200146,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500078"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5EIXASlcGPBdZTDf0rOcSq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5EIXASlcGPBdZTDf0rOcSq",
+        "id": "5EIXASlcGPBdZTDf0rOcSq",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Orgulho e Cinismo",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/f5c977cd3b12ff361a96e5622bb84d70e8855240?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5EIXASlcGPBdZTDf0rOcSq"
+      }
+    },
+    {
+      "added_at": "2018-08-01T11:41:02Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2hnCmCjxKNg6CmhJrWmRM2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2hnCmCjxKNg6CmhJrWmRM2",
+          "id": "2hnCmCjxKNg6CmhJrWmRM2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a989f8643e37734002e0f4e180d919d8a2975de0",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/88508720804fc3098db43d03de9bf217c3193e84",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2e10e76e2824c653364e51e3d19f33421b62b2e4",
+              "width": 64
+            }
+          ],
+          "name": "Pior Cenário Possível",
+          "release_date": "2015-04-14",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:2hnCmCjxKNg6CmhJrWmRM2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 327893,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP1500079"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2A5Z2vVRSwOSTnsyqnwuzz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2A5Z2vVRSwOSTnsyqnwuzz",
+        "id": "2A5Z2vVRSwOSTnsyqnwuzz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Conversa de Assassino Serial",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/dae0bcf74a1633c27a211cc81163f53f09151edf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2A5Z2vVRSwOSTnsyqnwuzz"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180333,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600430"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2UX8moWR8EvEr2DKitSpmu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UX8moWR8EvEr2DKitSpmu",
+        "id": "2UX8moWR8EvEr2DKitSpmu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Clube Dos Canalhas",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/12709907ae7038b5a6ee330bc9d822247ebc3f50?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2UX8moWR8EvEr2DKitSpmu"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 125600,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600431"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1uCM2mchqMjPrjKhfgsUWa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uCM2mchqMjPrjKhfgsUWa",
+        "id": "1uCM2mchqMjPrjKhfgsUWa",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Chamado do Bar",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/4301bc12096a377ebc060b425615281d4d8e7854?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1uCM2mchqMjPrjKhfgsUWa"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 138320,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600432"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3iqYQt3wKwFXIx6Kp54uW9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3iqYQt3wKwFXIx6Kp54uW9",
+        "id": "3iqYQt3wKwFXIx6Kp54uW9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sabendo Que Posso Morrer",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/5b1b8b529d6d8e5ee5fc5c910620c3524c409137?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3iqYQt3wKwFXIx6Kp54uW9"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 137306,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600434"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3h9GZzBBrtQkQQOJmZNnQN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3h9GZzBBrtQkQQOJmZNnQN",
+        "id": "3h9GZzBBrtQkQQOJmZNnQN",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Meio Psicopata",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/fc0df3aeddf83b3413c5d502456daa59f30a359f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3h9GZzBBrtQkQQOJmZNnQN"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 180040,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600436"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6EAoC0NyeZhOp9h6bJXPx5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EAoC0NyeZhOp9h6bJXPx5",
+        "id": "6EAoC0NyeZhOp9h6bJXPx5",
+        "is_local": false,
+        "is_playable": true,
+        "name": "O Caminho da Escada e da Corda",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/7ebdbc0a57584a99ef84e8b41e1a704f9899ee98?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6EAoC0NyeZhOp9h6bJXPx5"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 187520,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600437"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4HU4ryM1XD68OPB6Qb6lWM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4HU4ryM1XD68OPB6Qb6lWM",
+        "id": "4HU4ryM1XD68OPB6Qb6lWM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ressaca Sem Fim",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/72b4d4da1390ae62b0f468d0647d6bd18edff45f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4HU4ryM1XD68OPB6Qb6lWM"
+      }
+    },
+    {
+      "added_at": "2018-07-31T20:39:21Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+              },
+              "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+              "id": "5OlITTCPCIxWOa3TEpemuF",
+              "name": "Matanza",
+              "type": "artist",
+              "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JOTr7R44QiDGLYFwrfFwt"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JOTr7R44QiDGLYFwrfFwt",
+          "id": "2JOTr7R44QiDGLYFwrfFwt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0886ebddec5479050b96a8b1cd186a5f51ba9ac6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/46b1e169f99f0bed76456c9c272a35f486e527d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4eb65667e3c9a46ee7fef87fd630e2455af22205",
+              "width": 64
+            }
+          ],
+          "name": "A Arte do Insulto",
+          "release_date": "2006-10-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JOTr7R44QiDGLYFwrfFwt"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5OlITTCPCIxWOa3TEpemuF"
+            },
+            "href": "https://api.spotify.com/v1/artists/5OlITTCPCIxWOa3TEpemuF",
+            "id": "5OlITTCPCIxWOa3TEpemuF",
+            "name": "Matanza",
+            "type": "artist",
+            "uri": "spotify:artist:5OlITTCPCIxWOa3TEpemuF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 162466,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "BRDEP0600438"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kaBdUf1QTXUdz7eyf98br"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kaBdUf1QTXUdz7eyf98br",
+        "id": "4kaBdUf1QTXUdz7eyf98br",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tempo Ruim",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/ba8533d60d598c260dd3716ade6aa651244bf6d0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4kaBdUf1QTXUdz7eyf98br"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yrbLiuBmc9j81lTX3XUuI",
+            "id": "2yrbLiuBmc9j81lTX3XUuI",
+            "name": "The Jacksons",
+            "type": "artist",
+            "uri": "spotify:artist:2yrbLiuBmc9j81lTX3XUuI"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 343413,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM10022562"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2BU4dK1fu1CFLjTBz7ju7Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BU4dK1fu1CFLjTBz7ju7Q",
+        "id": "2BU4dK1fu1CFLjTBz7ju7Q",
+        "is_local": false,
+        "is_playable": true,
+        "name": "This Place Hotel (a.k.a. Heartbreak Hotel)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/f17429c3426b249ca9d012ccf4486c422b5ac184?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2BU4dK1fu1CFLjTBz7ju7Q"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+            "id": "3fMbdgg4jU18AjLCKBhRSm",
+            "name": "Michael Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253373,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM19700290"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0QgsvILuE9VQiAVsLStD3W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0QgsvILuE9VQiAVsLStD3W",
+        "id": "0QgsvILuE9VQiAVsLStD3W",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Blood on the Dance Floor",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/6ef56a67f7da912264ba1866e21be718a528e3b6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0QgsvILuE9VQiAVsLStD3W"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3xs0LEzcPXtgNfMNcHzLIP",
+            "id": "3xs0LEzcPXtgNfMNcHzLIP",
+            "name": "Rockwell",
+            "type": "artist",
+            "uri": "spotify:artist:3xs0LEzcPXtgNfMNcHzLIP"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237760,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USMO10000307"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6A4Jc8npNo79BOgsrPptLA",
+        "id": "6A4Jc8npNo79BOgsrPptLA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Somebody's Watching Me - Single Version",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/c1245127fedad1ee8f6e81a27659ad29750afd16?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6A4Jc8npNo79BOgsrPptLA"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+            "id": "3fMbdgg4jU18AjLCKBhRSm",
+            "name": "Michael Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 280946,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM11204988"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4FC7GMnGwYeAjuvC83Srbs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FC7GMnGwYeAjuvC83Srbs",
+        "id": "4FC7GMnGwYeAjuvC83Srbs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Dirty Diana - 2012 Remaster",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/532affb8368ee2a5d6134ef00466c8ded88d0d4d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4FC7GMnGwYeAjuvC83Srbs"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+            },
+            "href": "https://api.spotify.com/v1/artists/2yrbLiuBmc9j81lTX3XUuI",
+            "id": "2yrbLiuBmc9j81lTX3XUuI",
+            "name": "The Jacksons",
+            "type": "artist",
+            "uri": "spotify:artist:2yrbLiuBmc9j81lTX3XUuI"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 293120,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM10027406"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0XOuVAHsANAWw0LF0Yxkw5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XOuVAHsANAWw0LF0Yxkw5",
+        "id": "0XOuVAHsANAWw0LF0Yxkw5",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Torture",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/49d6f8667c77c6e1e7e7efd8b06d2ec383e9fafa?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0XOuVAHsANAWw0LF0Yxkw5"
+      }
+    },
+    {
+      "added_at": "2018-01-08T11:31:27Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+          },
+          "href": "https://api.spotify.com/v1/albums/2X8UOIkZQdcz2Hi5Ynt2uk",
+          "id": "2X8UOIkZQdcz2Hi5Ynt2uk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/afc94d1d4b72d8c2d81660131e53f36ea92affda",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0f75e9422e70650550ec9e4dee7c132fb9bede7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b188d610efd0432755907dc336355b7df0827d87",
+              "width": 64
+            }
+          ],
+          "name": "Scream",
+          "release_date": "2017-09-27",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:2X8UOIkZQdcz2Hi5Ynt2uk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+            },
+            "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+            "id": "3fMbdgg4jU18AjLCKBhRSm",
+            "name": "Michael Jackson",
+            "type": "artist",
+            "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259120,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM10110419"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0YzDJ3Jm9EMjAD28vefkyH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0YzDJ3Jm9EMjAD28vefkyH",
+        "id": "0YzDJ3Jm9EMjAD28vefkyH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Threatened",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/da97c2eb4667c8f82e823cea641e36f1cf2bcd35?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0YzDJ3Jm9EMjAD28vefkyH"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:43Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+          },
+          "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+          "id": "2T6jeELx5BqH4GMLObBy10",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/65d5b29d796ea81a8739f02971e0941a8db0026c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a4803a9274956115fadf8dc1a86b66c8fb05538d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/6f2131c9cd38317704b9ba3107114e9acaf414ba",
+              "width": 64
+            }
+          ],
+          "name": "Black Sabbath (2009 Remastered Version)",
+          "release_date": "1970-02-13",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260640,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000077"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3JvMig6Sc8XRLqHseNsccM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JvMig6Sc8XRLqHseNsccM",
+        "id": "3JvMig6Sc8XRLqHseNsccM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Wizard - 2009 Remastered Version",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/9690fdff672dba332aeeee1c207b8bac52ac2424?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3JvMig6Sc8XRLqHseNsccM"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:43Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+          },
+          "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+          "id": "2T6jeELx5BqH4GMLObBy10",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/65d5b29d796ea81a8739f02971e0941a8db0026c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a4803a9274956115fadf8dc1a86b66c8fb05538d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/6f2131c9cd38317704b9ba3107114e9acaf414ba",
+              "width": 64
+            }
+          ],
+          "name": "Black Sabbath (2009 Remastered Version)",
+          "release_date": "1970-02-13",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 364493,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000079"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62oNfnQqObaqARM0DTibAL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62oNfnQqObaqARM0DTibAL",
+        "id": "62oNfnQqObaqARM0DTibAL",
+        "is_local": false,
+        "is_playable": true,
+        "name": "N.I.B. - 2009 Remastered Version",
+        "popularity": 63,
+        "preview_url": "https://p.scdn.co/mp3-preview/82ab9db4cbf7987f7bb3dd912d3e4f7b4f020961?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:62oNfnQqObaqARM0DTibAL"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:43Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+          },
+          "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+          "id": "2T6jeELx5BqH4GMLObBy10",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/65d5b29d796ea81a8739f02971e0941a8db0026c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a4803a9274956115fadf8dc1a86b66c8fb05538d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/6f2131c9cd38317704b9ba3107114e9acaf414ba",
+              "width": 64
+            }
+          ],
+          "name": "Black Sabbath (2009 Remastered Version)",
+          "release_date": "1970-02-13",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226053,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000081"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KHeKEA1pf0YtlCcGVCGce"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KHeKEA1pf0YtlCcGVCGce",
+        "id": "0KHeKEA1pf0YtlCcGVCGce",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sleeping Village - 2009 Remastered Version",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/6a22745f2284e225f961f7dae38549788e4b71dd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0KHeKEA1pf0YtlCcGVCGce"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:43Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+          },
+          "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+          "id": "2T6jeELx5BqH4GMLObBy10",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/65d5b29d796ea81a8739f02971e0941a8db0026c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a4803a9274956115fadf8dc1a86b66c8fb05538d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/6f2131c9cd38317704b9ba3107114e9acaf414ba",
+              "width": 64
+            }
+          ],
+          "name": "Black Sabbath (2009 Remastered Version)",
+          "release_date": "1970-02-13",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 632306,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000082"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4JW2yU9lIb8jCNv47PpTfZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JW2yU9lIb8jCNv47PpTfZ",
+        "id": "4JW2yU9lIb8jCNv47PpTfZ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Warning - 2009 Remastered Version",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/c8f89d9fc60247ba6d9a0ad85ee2d9096afa405b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4JW2yU9lIb8jCNv47PpTfZ"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:42Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+          },
+          "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+          "id": "132qAo1cDiEJdA3fv4xyNK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90ea1c38391b602811b6b702915bc62a95d4f6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ea42017c88ca20e8a99d26355b8186e63c716c6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/924a6ac46f56d63eebdf36234068ab3bee0d33f6",
+              "width": 64
+            }
+          ],
+          "name": "Paranoid (2009 Remastered Version)",
+          "release_date": "1970-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 474400,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000063"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0W35nxtHtFlseSojmygEsf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0W35nxtHtFlseSojmygEsf",
+        "id": "0W35nxtHtFlseSojmygEsf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "War Pigs - 2009 Remastered Version",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/c5874de41d26926ded824c0a092734fd532d50c5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0W35nxtHtFlseSojmygEsf"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:42Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+          },
+          "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+          "id": "132qAo1cDiEJdA3fv4xyNK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90ea1c38391b602811b6b702915bc62a95d4f6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ea42017c88ca20e8a99d26355b8186e63c716c6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/924a6ac46f56d63eebdf36234068ab3bee0d33f6",
+              "width": 64
+            }
+          ],
+          "name": "Paranoid (2009 Remastered Version)",
+          "release_date": "1970-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 168440,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000057"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1jzDzZWeSDBg5fhNc3tczV",
+        "id": "1jzDzZWeSDBg5fhNc3tczV",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Paranoid - 2009 Remastered Version",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/a97dcfb360d49d58ff94e73b6ecdd58143986878?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1jzDzZWeSDBg5fhNc3tczV"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:42Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+          },
+          "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+          "id": "132qAo1cDiEJdA3fv4xyNK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90ea1c38391b602811b6b702915bc62a95d4f6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ea42017c88ca20e8a99d26355b8186e63c716c6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/924a6ac46f56d63eebdf36234068ab3bee0d33f6",
+              "width": 64
+            }
+          ],
+          "name": "Paranoid (2009 Remastered Version)",
+          "release_date": "1970-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 269533,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000084"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7wqF3BU0ykeKch6BcNqGiT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7wqF3BU0ykeKch6BcNqGiT",
+        "id": "7wqF3BU0ykeKch6BcNqGiT",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Planet Caravan - 2009 Remastered Version",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/106d039c275117bdba61b901f2786c61e94585ea?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7wqF3BU0ykeKch6BcNqGiT"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:42Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+          },
+          "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+          "id": "132qAo1cDiEJdA3fv4xyNK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90ea1c38391b602811b6b702915bc62a95d4f6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ea42017c88ca20e8a99d26355b8186e63c716c6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/924a6ac46f56d63eebdf36234068ab3bee0d33f6",
+              "width": 64
+            }
+          ],
+          "name": "Paranoid (2009 Remastered Version)",
+          "release_date": "1970-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 354773,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000085"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0TI8TP4FitVPoEHPTySx48"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TI8TP4FitVPoEHPTySx48",
+        "id": "0TI8TP4FitVPoEHPTySx48",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Iron Man - 2009 Remastered Version",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/3ab3d30fc620439508e153002613671ed93983c5?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0TI8TP4FitVPoEHPTySx48"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:42Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+          },
+          "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+          "id": "132qAo1cDiEJdA3fv4xyNK",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d90ea1c38391b602811b6b702915bc62a95d4f6b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ea42017c88ca20e8a99d26355b8186e63c716c6b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/924a6ac46f56d63eebdf36234068ab3bee0d33f6",
+              "width": 64
+            }
+          ],
+          "name": "Paranoid (2009 Remastered Version)",
+          "release_date": "1970-09-18",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 289799,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7000086"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39eKdJcCdYYRdKEZRfKJDJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39eKdJcCdYYRdKEZRfKJDJ",
+        "id": "39eKdJcCdYYRdKEZRfKJDJ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Electric Funeral - 2009 Remastered Version",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/c6aadfbac7eb5bbb963ac3ba98ccb339e448a83a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:39eKdJcCdYYRdKEZRfKJDJ"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 303253,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100082"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/663YE60YdyYlI5lcHG3Noz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/663YE60YdyYlI5lcHG3Noz",
+        "id": "663YE60YdyYlI5lcHG3Noz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sweet Leaf - 2009 Remastered Version",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/e634b75b7ad3ac951c3f196c8027e4e7e7f9fc07?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:663YE60YdyYlI5lcHG3Noz"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 323640,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100083"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1zPLLwCz1XU1ErGYhON6LV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1zPLLwCz1XU1ErGYhON6LV",
+        "id": "1zPLLwCz1XU1ErGYhON6LV",
+        "is_local": false,
+        "is_playable": true,
+        "name": "After Forever - 2009 Remastered Version",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/22b25d5b657f8641b267488609f330e574b2e6aa?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1zPLLwCz1XU1ErGYhON6LV"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 27266,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100084"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30HS5aI90o2DputyA69iOX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30HS5aI90o2DputyA69iOX",
+        "id": "30HS5aI90o2DputyA69iOX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Embryo - 2009 Remastered Version",
+        "popularity": 7,
+        "preview_url": "https://p.scdn.co/mp3-preview/d8fed5d54decb0bf465ce32387b660eab5c040e1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:30HS5aI90o2DputyA69iOX"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 314720,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100085"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ZuVfQriS93y6ofwbIf7lp",
+        "id": "3ZuVfQriS93y6ofwbIf7lp",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Children of the Grave - 2009 Remastered Version",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/393b35840a1a96f08080adb8d6942e9f5c5feeff?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3ZuVfQriS93y6ofwbIf7lp"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 90786,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100086"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4VMOFyIl8weDI5BXyti7sn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4VMOFyIl8weDI5BXyti7sn",
+        "id": "4VMOFyIl8weDI5BXyti7sn",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Orchid - 2009 Remastered Version",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/00cc6f0816d28175fee9ad53f7bc12a69809badf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4VMOFyIl8weDI5BXyti7sn"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 322906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100087"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GPkkpX2WPccnZZggAtx8Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GPkkpX2WPccnZZggAtx8Q",
+        "id": "0GPkkpX2WPccnZZggAtx8Q",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Lord of This World - 2009 Remastered Version",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/b4d406b284c949b9a313b55adf7b91f04205f42d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0GPkkpX2WPccnZZggAtx8Q"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:41Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+          },
+          "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+          "id": "3kBG6q0aXKxzn01wKTwZr5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/02507d72f65435f221baf0d847e9e0a1ddcb1bfc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/eb1ccab79760d6706888607838939d22cd82cc69",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d880da4ac0e423b15b8914ecdebc66bb0ab5958b",
+              "width": 64
+            }
+          ],
+          "name": "Master of Reality (2009 Remastered Version)",
+          "release_date": "1971-07-21",
+          "release_date_precision": "day",
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 301640,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7100088"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0y1eaipbcP50xp6WLgJtuv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0y1eaipbcP50xp6WLgJtuv",
+        "id": "0y1eaipbcP50xp6WLgJtuv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Solitude - 2009 Remastered Version",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/7d9ddffb1c2a329d891b39a7ec28d28e5ec3bce8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0y1eaipbcP50xp6WLgJtuv"
+      }
+    },
+    {
+      "added_at": "2017-10-30T17:35:39Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+              "id": "5M52tdBnJaKSvOpJGz8mfZ",
+              "name": "Black Sabbath",
+              "type": "artist",
+              "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+          },
+          "href": "https://api.spotify.com/v1/albums/3iRW4cZOM90lX9Rtc2Qglh",
+          "id": "3iRW4cZOM90lX9Rtc2Qglh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/6fece4e967304bcecaac8acf434227c2a7c13e31",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/5805ee36907961fa1d1e46a2f5653ea892b1b9ad",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4faf22545ee65f5781b9b98b8e2d11498a1b00ab",
+              "width": 64
+            }
+          ],
+          "name": "Vol. 4 (2009 Remastered Version)",
+          "release_date": "1972-09-25",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:3iRW4cZOM90lX9Rtc2Qglh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+            "id": "5M52tdBnJaKSvOpJGz8mfZ",
+            "name": "Black Sabbath",
+            "type": "artist",
+            "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 468920,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAJE7200128"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1czmbPIdJpwT32OxaeLAyp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1czmbPIdJpwT32OxaeLAyp",
+        "id": "1czmbPIdJpwT32OxaeLAyp",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Wheels of Confusion - 2009 Remastered Version",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/bd0ccb168953908cf5b5b8b5c84f31f2e5493cca?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1czmbPIdJpwT32OxaeLAyp"
+      }
+    }
+  ],
+  "limit": 50,
+  "next": "https://api.spotify.com/v1/me/tracks?offset=650&limit=50&market=from_token",
+  "offset": 600,
+  "previous": "https://api.spotify.com/v1/me/tracks?offset=550&limit=50&market=from_token",
+  "total": 663
+}
